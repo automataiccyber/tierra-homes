@@ -1,0 +1,1905 @@
+Location,Classification
+
+# National Capital Region (NCR)
+NCR,100.0,Urban
+Manila City,100.0,Urban
+Mandaluyong City,100.0,Urban
+Marikina City,100.0,Urban
+Pasig City,100.0,Urban
+Quezon City,100.0,Urban
+San Juan City,100.0,Urban
+Caloocan City,100.0,Urban
+Malabon City,100.0,Urban
+Navotas City,100.0,Urban
+Valenzuela City,100.0,Urban
+Las Piñas City,100.0,Urban
+Makati City,100.0,Urban
+Muntinlupa City,100.0,Urban
+Parañaque City,100.0,Urban
+Pasay City,100.0,Urban
+Taguig City,100.0,Urban
+Pateros,100.0,Urban
+
+# Cordillera Administrative Region (CAR)
+CAR,33.30,Rural
+
+## Abra
+Abra,6.45,Rural
+Bangued,32.13,Rural
+Boliney,0.0,Rural
+Bucay,0.0,Rural
+Bucloc,0.0,Rural
+Daguioman,0.0,Rural
+Danglas,0.0,Rural
+Dolores,0.0,Rural
+La Paz,0.0,Rural
+Lacub,0.0,Rural
+Lagangilang,0.0,Rural
+Lagayan,0.0,Rural
+Langiden,0.0,Rural
+Licuan-Baay,0.0,Rural
+Luba,0.0,Rural
+Malibcong,0.0,Rural
+Manabo,0.0,Rural
+Peñarrubia,0.0,Rural
+Pidigan,0.0,Rural
+Pilar,0.0,Rural
+Sallapadan,0.0,Rural
+San Isidro,0.0,Rural
+San Juan,0.0,Rural
+San Quintin,0.0,Rural
+Tayum,0.0,Rural
+Tineg,0.0,Rural
+Tubo,0.0,Rural
+Villaviciosa,0.0,Rural
+
+## Apayao
+Apayao,0.85,Rural
+Calanasan,8.47,Rural
+Conner,0.0,Rural
+Flora,0.0,Rural
+Kabugao,0.0,Rural
+Luna,0.0,Rural
+Pudtol,0.0,Rural
+Santa Marcela,0.0,Rural
+
+## Benguet
+Benguet,56.47,Suburban
+Atok,22.30,Rural
+Bakun,0.0,Rural
+Bokod,22.87,Rural
+Buguias,19.76,Rural
+Itogon,86.64,Urban
+Kabayan,0.0,Rural
+Kapangan,0.0,Rural
+Kibungan,32.54,Rural
+La Trinidad,93.85,Urban
+Mankayan,35.97,Rural
+Sablan,0.0,Rural
+Tuba,65.50,Suburban
+Tublay,55.92,Suburban
+Baguio City,64.67,Suburban
+
+## Ifugao
+Ifugao,8.04,Rural
+Banaue,0.0,Rural
+Hungduan,0.0,Rural
+Kiangan,15.54,Rural
+Lagawe,30.37,Rural
+Lamut,10.65,Rural
+Mayoyao,0.0,Rural
+Alfonso Lista,15.90,Rural
+Aguinaldo,0.0,Rural
+Hingyon,0.0,Rural
+Tinoc,0.0,Rural
+Asipulo,0.0,Rural
+
+## Kalinga
+Kalinga,21.17,Rural
+Balbalan,0.0,Rural
+Lubuagan,0.0,Rural
+Pasil,0.0,Rural
+Pinukpuk,0.0,Rural
+Rizal,0.0,Rural
+Tabuk City,40.16,Suburban
+Tanudan,0.0,Rural
+Tinglayan,0.0,Rural
+
+## Mountain Province
+Mountain Province,12.07,Rural
+Barlig,0.0,Rural
+Bauko,0.0,Rural
+Besao,0.0,Rural
+Bontoc,22.89,Rural
+Natonin,0.0,Rural
+Paracelis,38.77,Rural
+Sabangan,0.0,Rural
+Sadanga,0.0,Rural
+Sagada,12.95,Rural
+Tadian,0.0,Rural
+
+# Ilocos Region (Region I)
+Ilocos Region,25.49,Rural
+
+## Ilocos Norte
+Ilocos Norte,10.94,Rural
+Adams,0.0,Rural
+Bacarra,0.0,Rural
+Badoc,4.25,Rural
+Bangui,0.0,Rural
+Batac City,7.81,Rural
+Burgos,0.0,Rural
+Carasi,0.0,Rural
+Currimao,0.0,Rural
+Dingras,3.50,Rural
+Dumalneg,0.0,Rural
+Banna,0.0,Rural
+Laoag City,38.39,Rural
+Marcos,0.0,Rural
+Nueva Era,0.0,Rural
+Pagudpud,20.87,Rural
+Paoay,6.05,Rural
+Pasuquin,0.0,Rural
+Piddig,0.0,Rural
+Pinili,0.0,Rural
+San Nicolas,21.88,Rural
+Sarrat,5.69,Rural
+Solsona,0.0,Rural
+Vintar,0.0,Rural
+
+## Ilocos Sur
+Ilocos Sur,10.47,Rural
+Alilem,0.0,Rural
+Banayoyo,0.0,Rural
+Bantay,25.10,Rural
+Burgos,0.0,Rural
+Cabugao,16.07,Rural
+Candon City,33.04,Rural
+Caoayan,0.0,Rural
+Cervantes,0.0,Rural
+Galimuyod,0.0,Rural
+Gregorio del Pilar,0.0,Rural
+Lidlidda,0.0,Rural
+Magsingal,17.73,Rural
+Nagbukel,0.0,Rural
+Narvacan,11.90,Rural
+Quirino,0.0,Rural
+Salcedo,0.0,Rural
+San Emilio,0.0,Rural
+San Esteban,0.0,Rural
+San Ildefonso,12.09,Rural
+San Juan,0.0,Rural
+San Vicente,13.89,Rural
+Santa,3.59,Rural
+Santa Catalina,0.0,Rural
+Santa Cruz,4.02,Rural
+Santa Lucia,0.0,Rural
+Santa Maria,14.08,Rural
+Santiago,10.16,Rural
+Santo Domingo,10.11,Rural
+Sigay,0.0,Rural
+Sinait,2.79,Rural
+Sugpon,0.0,Rural
+Suyo,0.0,Rural
+Tagudin,3.38,Rural
+Vigan City,19.86,Rural
+
+## La Union
+La Union,21.06,Rural
+Agoo,11.94,Rural
+Aringay,18.00,Rural
+Bacnotan,21.76,Rural
+Bagulin,0.0,Rural
+Balaoan,4.44,Rural
+Bangar,0.0,Rural
+Bauang,45.85,Suburban
+Burgos,0.0,Rural
+Caba,0.0,Rural
+Luna,0.0,Rural
+Naguilian,13.54,Rural
+Pugo,0.0,Rural
+Rosario,26.74,Rural
+San Fernando City,53.15,Suburban
+San Gabriel,0.0,Rural
+San Juan,26.82,Rural
+Santo Tomas,8.34,Rural
+Santol,0.0,Rural
+Sudipen,0.0,Rural
+Tubao,14.30,Rural
+
+## Pangasinan
+Pangasinan,32.80,Rural
+Agno,0.0,Rural
+Aguilar,17.48,Rural
+Alaminos City,34.88,Rural
+Alcala,15.10,Rural
+Anda,15.14,Rural
+Asingan,12.11,Rural
+Balungao,29.27,Rural
+Bani,20.96,Rural
+Basista,56.73,Suburban
+Bautista,0.0,Rural
+Bayambang,4.77,Rural
+Binalonan,53.52,Suburban
+Binmaley,44.52,Suburban
+Bolinao,38.37,Rural
+Bugallon,40.50,Suburban
+Burgos,25.15,Rural
+Calasiao,60.36,Suburban
+Dagupan City,85.48,Urban
+Dasol,0.0,Rural
+Infanta,0.0,Rural
+Labrador,18.51,Rural
+Lingayen,46.42,Suburban
+Mabini,10.72,Rural
+Malasiqui,8.49,Rural
+Manaoag,30.59,Rural
+Mangaldan,45.04,Suburban
+Mangatarem,3.03,Rural
+Mapandan,33.45,Rural
+Natividad,7.49,Rural
+Pozorrubio,26.86,Rural
+Rosales,23.39,Rural
+San Carlos City,30.00,Rural
+San Fabian,17.96,Rural
+San Jacinto,28.82,Rural
+San Manuel,48.17,Suburban
+San Nicolas,0.0,Rural
+San Quintin,22.51,Rural
+Santa Barbara,45.04,Suburban
+Santa Maria,3.27,Rural
+Santo Tomas,56.09,Suburban
+Sison,20.79,Rural
+Sual,29.41,Rural
+Tayug,27.80,Rural
+Umingan,16.97,Rural
+Urbiztondo,21.05,Rural
+Urdaneta City,76.41,Suburban
+Villasis,45.35,Suburban
+Laoac,24.40,Rural
+
+# Cagayan Valley (Region II)
+Cagayan Valley,19.47,Rural
+
+## Batanes
+Batanes,23.33,Rural
+Basco,46.17,Suburban
+Itbayat,0.0,Rural
+Ivana,0.0,Rural
+Mahatao,0.0,Rural
+Sabtang,0.0,Rural
+Uyugan,0.0,Rural
+
+## Cagayan
+Cagayan,18.25,Rural
+Abulug,19.04,Rural
+Alcala,5.75,Rural
+Allacapan,6.09,Rural
+Amulung,5.64,Rural
+Aparri,37.01,Rural
+Baggao,24.80,Rural
+Ballesteros,12.10,Rural
+Buguey,0.0,Rural
+Calayan,0.0,Rural
+Camalaniugan,6.05,Rural
+Claveria,11.58,Rural
+Enrile,8.42,Rural
+Gattaran,3.25,Rural
+Gonzaga,6.72,Rural
+Iguig,0.0,Rural
+Lal-lo,8.24,Rural
+Lasam,5.05,Rural
+Pamplona,0.0,Rural
+Peñablanca,6.40,Rural
+Piat,14.12,Rural
+Rizal,0.0,Rural
+Sanchez-Mira,9.49,Rural
+Santa Ana,44.07,Suburban
+Santa Praxedes,0.0,Rural
+Santa Teresita,2.95,Rural
+Santo Niño,0.0,Rural
+Solana,17.06,Rural
+Tuao,1.58,Rural
+Tuguegarao City,63.41,Suburban
+
+## Isabela
+Isabela,22.25,Rural
+Alicia,31.82,Rural
+Angadanan,0.0,Rural
+Aurora,7.38,Rural
+Benito Soliven,0.0,Rural
+Burgos,26.59,Rural
+Cabagan,17.16,Rural
+Cabatuan,10.01,Rural
+Cauayan City,42.90,Suburban
+Cordon,1.14,Rural
+Dinapigue,0.0,Rural
+Divilacan,0.0,Rural
+Echague,9.91,Rural
+Gamu,16.84,Rural
+Ilagan City,24.67,Rural
+Jones,4.90,Rural
+Luna,0.0,Rural
+Maconacon,0.0,Rural
+Delfin Albano,0.0,Rural
+Mallig,3.47,Rural
+Naguilian,9.15,Rural
+Palanan,0.0,Rural
+Quezon,17.31,Rural
+Quirino,0.0,Rural
+Ramon,59.27,Suburban
+Reina Mercedes,11.83,Rural
+Roxas,38.87,Rural
+San Agustin,0.0,Rural
+San Guillermo,0.0,Rural
+San Isidro,14.28,Rural
+San Manuel,0.0,Rural
+San Mariano,4.19,Rural
+San Mateo,22.50,Rural
+San Pablo,0.0,Rural
+Santa Maria,0.0,Rural
+Santiago City,78.53,Suburban
+Santo Tomas,0.0,Rural
+Tumauini,6.51,Rural
+
+## Nueva Vizcaya
+Nueva Vizcaya,16.90,Rural
+Ambaguio,0.0,Rural
+Aritao,8.10,Rural
+Bagabag,13.83,Rural
+Bambang,28.24,Rural
+Bayombong,29.18,Rural
+Diadi,0.0,Rural
+Dupax del Norte,15.07,Rural
+Dupax del Sur,6.09,Rural
+Kasibu,0.0,Rural
+Kayapa,0.0,Rural
+Quezon,23.06,Rural
+Santa Fe,0.0,Rural
+Solano,42.89,Suburban
+Villaverde,0.0,Rural
+Alfonso Castañeda,0.0,Rural
+
+## Quirino
+Quirino,9.92,Rural
+Aglipay,8.71,Rural
+Cabarroguis,13.32,Rural
+Diffun,14.14,Rural
+Maddela,12.56,Rural
+Saguday,0.0,Rural
+Nagtipunan,0.0,Rural
+
+# Central Luzon (Region III)
+Central Luzon,66.25,Suburban
+
+## Aurora
+Aurora,19.17,Rural
+Baler,68.09,Suburban
+Casiguran,7.13,Rural
+Dilasag,0.0,Rural
+Dinalungan,0.0,Rural
+Dingalan,20.64,Rural
+Dipaculao,0.0,Rural
+Maria Aurora,5.64,Rural
+San Luis,17.46,Rural
+
+## Bataan
+Bataan,59.37,Suburban
+Abucay,65.75,Suburban
+Bagac,0.0,Rural
+Balanga City,69.55,Suburban
+Dinalupihan,40.67,Suburban
+Hermosa,47.89,Suburban
+Limay,91.73,Urban
+Mariveles,95.96,Urban
+Morong,100.0,Urban
+Orani,32.27,Rural
+Orion,41.12,Suburban
+Pilar,39.90,Rural
+Samal,9.50,Rural
+
+## Bulacan
+Bulacan,85.66,Urban
+Angat,74.81,Suburban
+Balagtas,93.78,Urban
+Baliuag,81.95,Urban
+Bocaue,85.82,Urban
+Bulacan,86.98,Urban
+Bustos,89.04,Urban
+Calumpit,74.91,Suburban
+Guiguinto,91.56,Urban
+Hagonoy,76.97,Suburban
+Malolos City,90.26,Urban
+Marilao,100.0,Urban
+Meycauayan City,96.27,Urban
+Norzagaray,97.61,Urban
+Obando,88.54,Urban
+Pandi,83.72,Urban
+Paombong,50.95,Suburban
+Plaridel,85.69,Urban
+Pulilan,85.13,Urban
+San Ildefonso,68.18,Suburban
+San Jose del Monte City,87.32,Urban
+San Miguel,55.62,Suburban
+San Rafael,70.01,Suburban
+Santa Maria,98.47,Urban
+Doña Remedios Trinidad,63.01,Suburban
+
+## Nueva Ecija
+Nueva Ecija,41.66,Suburban
+Aliaga,35.07,Rural
+Bongabon,18.26,Rural
+Cabanatuan City,67.91,Suburban
+Cabiao,59.21,Suburban
+Carranglan,24.93,Rural
+Cuyapo,1.09,Rural
+Gabaldon,15.83,Rural
+Gapan City,71.96,Suburban
+General Mamerto Natividad,12.60,Rural
+General Tinio,79.99,Suburban
+Guimba,21.43,Rural
+Jaen,11.13,Rural
+Laur,0.0,Rural
+Licab,0.0,Rural
+Llanera,0.0,Rural
+Lupao,11.41,Rural
+Science City of Muñoz,23.93,Rural
+Nampicuan,0.0,Rural
+Palayan City,26.85,Rural
+Pantabangan,3.75,Rural
+Peñaranda,62.45,Suburban
+Quezon,11.20,Rural
+Rizal,32.84,Rural
+San Antonio,70.56,Suburban
+San Isidro,87.03,Urban
+San Jose City,68.62,Suburban
+San Leonardo,78.69,Suburban
+Santa Rosa,27.20,Rural
+Santo Domingo,36.62,Rural
+Talavera,41.42,Suburban
+Talugtug,0.0,Rural
+Zaragoza,22.78,Rural
+
+## Pampanga
+Pampanga,74.96,Suburban
+Apalit,96.59,Urban
+Arayat,80.14,Urban
+Bacolor,78.10,Suburban
+Candaba,51.79,Suburban
+Floridablanca,53.29,Suburban
+Guagua,77.88,Suburban
+Lubao,56.10,Suburban
+Mabalacat City,91.77,Urban
+Macabebe,55.66,Suburban
+Magalang,72.17,Suburban
+Masantol,29.15,Rural
+Mexico,64.47,Suburban
+Minalin,66.27,Suburban
+Porac,82.35,Urban
+San Fernando City,98.86,Urban
+San Luis,64.36,Suburban
+San Simon,72.59,Suburban
+Santa Ana,65.10,Suburban
+Santa Rita,63.26,Suburban
+Santo Tomas,100.0,Urban
+Sasmuan,17.58,Rural
+Angeles City,100.0,Urban
+
+## Tarlac
+Tarlac,48.15,Suburban
+Anao,0.0,Rural
+Bamban,83.67,Urban
+Camiling,13.05,Rural
+Capas,92.39,Urban
+Concepcion,58.54,Suburban
+Gerona,21.17,Rural
+La Paz,38.10,Rural
+Mayantoc,10.91,Rural
+Moncada,2.87,Rural
+Paniqui,28.88,Rural
+Pura,0.0,Rural
+Ramos,22.30,Rural
+San Clemente,0.0,Rural
+San Manuel,0.0,Rural
+Santa Ignacia,15.30,Rural
+Tarlac City,72.71,Suburban
+Victoria,17.87,Rural
+San Jose,39.74,Rural
+
+## Zambales
+Zambales,41.31,Suburban
+Botolan,34.43,Rural
+Cabangan,0.0,Rural
+Candelaria,0.0,Rural
+Castillejos,66.33,Suburban
+Iba,70.78,Suburban
+Masinloc,42.92,Suburban
+Palauig,38.15,Rural
+San Antonio,15.75,Rural
+San Felipe,24.16,Rural
+San Marcelino,1.84,Rural
+San Narciso,0.0,Rural
+Santa Cruz,20.04,Rural
+Subic,86.65,Urban
+Olongapo City,98.47,Urban
+
+# CALABARZON (Region IV-A)
+CALABARZON,70.49,Suburban
+
+## Batangas
+Batangas,47.51,Suburban
+Agoncillo,4.78,Rural
+Alitagtag,0.0,Rural
+Balayan,22.21,Rural
+Balete,20.99,Rural
+Batangas City,71.01,Suburban
+Bauan,58.21,Suburban
+Calaca,28.76,Rural
+Calatagan,6.05,Rural
+Cuenca,9.24,Rural
+Ibaan,21.88,Rural
+Laurel,5.29,Rural
+Lemery,7.66,Rural
+Lian,31.27,Rural
+Lipa City,80.41,Urban
+Lobo,6.52,Rural
+Mabini,26.86,Rural
+Malvar,61.04,Suburban
+Mataasnakahoy,0.0,Rural
+Nasugbu,49.19,Suburban
+Padre Garcia,24.45,Rural
+Rosario,37.72,Rural
+San Jose,53.16,Suburban
+San Juan,31.24,Rural
+San Luis,9.40,Rural
+San Nicolas,0.0,Rural
+San Pascual,40.40,Suburban
+Santa Teresita,0.0,Rural
+Santo Tomas City,88.33,Urban
+Taal,27.57,Rural
+Talisay,40.01,Suburban
+Tanauan City,75.69,Suburban
+Taysan,21.17,Rural
+Tingloy,0.0,Rural
+Tuy,5.55,Rural
+
+## Cavite
+Cavite,76.91,Suburban
+Alfonso,37.44,Rural
+Amadeo,5.35,Rural
+Bacoor City,91.68,Urban
+Carmona,90.19,Urban
+Cavite City,12.87,Rural
+Dasmariñas City,83.83,Urban
+General Emilio Aguinaldo,48.53,Suburban
+General Trias City,94.59,Urban
+Imus City,80.12,Urban
+Indang,22.46,Rural
+Kawit,67.08,Suburban
+Magallanes,0.0,Rural
+Maragondon,8.65,Rural
+Mendez,0.0,Rural
+Naic,71.31,Suburban
+Noveleta,51.07,Suburban
+Rosario,71.90,Suburban
+Silang,70.90,Suburban
+Tagaytay City,54.70,Suburban
+Tanza,87.12,Urban
+Ternate,30.05,Rural
+Trece Martires City,98.04,Urban
+General Mariano Alvarez,70.03,Suburban
+
+## Laguna
+Laguna,79.28,Suburban
+Alaminos,38.20,Rural
+Bay,76.95,Suburban
+Biñan City,98.02,Urban
+Cabuyao City,100.0,Urban
+Calamba City,93.17,Urban
+Calauan,71.15,Suburban
+Cavinti,27.92,Rural
+Famy,11.66,Rural
+Kalayaan,100.0,Urban
+Liliw,0.0,Rural
+Los Baños,94.61,Urban
+Luisiana,0.0,Rural
+Lumban,19.72,Rural
+Mabitac,0.0,Rural
+Magdalena,5.02,Rural
+Majayjay,0.0,Rural
+Nagcarlan,29.46,Rural
+Paete,51.14,Suburban
+Pagsanjan,53.41,Suburban
+Pakil,0.0,Rural
+Pangil,52.78,Suburban
+Pila,48.42,Suburban
+Rizal,11.40,Rural
+San Pablo City,64.86,Suburban
+San Pedro City,93.62,Urban
+Santa Cruz,76.56,Suburban
+Santa Maria,0.0,Rural
+Santa Rosa City,100.0,Urban
+Siniloan,28.34,Rural
+Victoria,72.55,Suburban
+
+## Quezon
+Quezon,30.60,Rural
+Agdangan,0.0,Rural
+Alabat,0.0,Rural
+Atimonan,34.69,Rural
+Buenavista,5.72,Rural
+Burdeos,25.76,Rural
+Calauag,10.30,Rural
+Candelaria,79.45,Suburban
+Catanauan,15.10,Rural
+Dolores,20.21,Rural
+General Luna,0.0,Rural
+General Nakar,17.31,Rural
+Guinayangan,12.93,Rural
+Gumaca,17.97,Rural
+Infanta,32.19,Rural
+Jomalig,0.0,Rural
+Lopez,20.97,Rural
+Lucban,43.83,Suburban
+Macalelon,1.38,Rural
+Mauban,46.59,Suburban
+Mulanay,0.0,Rural
+Padre Burgos,7.26,Rural
+Pagbilao,61.02,Suburban
+Panukulan,0.0,Rural
+Patnanungan,43.16,Suburban
+Perez,0.0,Rural
+Pitogo,4.27,Rural
+Plaridel,0.0,Rural
+Polillo,31.56,Rural
+Quezon,0.0,Rural
+Real,20.87,Rural
+Sampaloc,0.0,Rural
+San Andres,70.57,Suburban
+San Antonio,0.0,Rural
+San Francisco,30.31,Rural
+San Narciso,10.93,Rural
+Sariaya,43.58,Suburban
+Tagkawayan,8.26,Rural
+Tayabas City,40.64,Suburban
+Tiaong,55.87,Suburban
+Unisan,0.0,Rural
+Lucena City,94.04,Urban
+
+## Rizal
+Rizal,94.64,Urban
+Angono,92.81,Urban
+Antipolo City,99.88,Urban
+Baras,76.67,Suburban
+Binangonan,88.25,Urban
+Cainta,99.57,Urban
+Cardona,46.88,Suburban
+Jala-Jala,32.05,Rural
+Rodriguez,98.10,Urban
+Morong,81.59,Urban
+Pililla,90.29,Urban
+San Mateo,100.0,Urban
+Tanay,81.50,Urban
+Taytay,100.0,Urban
+Teresa,92.31,Urban
+
+# MIMAROPA (Region IV-B)
+MIMAROPA,47.03,Suburban
+
+## Marinduque
+Marinduque,29.57,Rural
+Boac,31.24,Rural
+Buenavista,0.0,Rural
+Gasan,0.0,Rural
+Mogpog,0.0,Rural
+Santa Cruz,38.20,Rural
+Torrijos,0.0,Rural
+
+## Occidental Mindoro
+Occidental Mindoro,26.71,Rural
+Abra de Ilog,0.0,Rural
+Calintaan,0.0,Rural
+Looc,0.0,Rural
+Lubang,0.0,Rural
+Magsaysay,0.0,Rural
+Mamburao,31.24,Rural
+Paluan,0.0,Rural
+Rizal,0.0,Rural
+Sablayan,21.88,Rural
+San Jose,53.16,Suburban
+Santa Cruz,0.0,Rural
+
+## Oriental Mindoro
+Oriental Mindoro,31.95,Rural
+Baco,0.0,Rural
+Bansud,0.0,Rural
+Bongabong,21.17,Rural
+Bulalacao,0.0,Rural
+Calapan City,71.01,Suburban
+Gloria,0.0,Rural
+Mansalay,0.0,Rural
+Naujan,31.24,Rural
+Pinamalayan,38.20,Rural
+Pola,0.0,Rural
+Puerto Galera,53.16,Suburban
+Roxas,0.0,Rural
+San Teodoro,0.0,Rural
+Socorro,0.0,Rural
+Victoria,0.0,Rural
+
+## Palawan
+Palawan,39.02,Rural
+Aborlan,0.0,Rural
+Agutaya,0.0,Rural
+Araceli,0.0,Rural
+Balabac,0.0,Rural
+Bataraza,31.24,Rural
+Brooke's Point,38.20,Rural
+Busuanga,0.0,Rural
+Cagayancillo,0.0,Rural
+Coron,53.16,Suburban
+Culion,0.0,Rural
+Cuyo,0.0,Rural
+Dumaran,0.0,Rural
+El Nido,71.01,Suburban
+Linapacan,0.0,Rural
+Magsaysay,0.0,Rural
+Narra,38.20,Rural
+Puerto Princesa City,71.01,Suburban
+Quezon,21.17,Rural
+Rizal,0.0,Rural
+Roxas,31.24,Rural
+San Vicente,0.0,Rural
+Sofronio Española,0.0,Rural
+Taytay,38.20,Rural
+
+## Romblon
+Romblon,31.95,Rural
+Alcantara,0.0,Rural
+Banton,0.0,Rural
+Cajidiocan,0.0,Rural
+Calatrava,0.0,Rural
+Concepcion,0.0,Rural
+Corcuera,0.0,Rural
+Ferrol,0.0,Rural
+Looc,0.0,Rural
+Magdiwang,0.0,Rural
+Odiongan,53.16,Suburban
+Romblon,38.20,Rural
+San Agustin,0.0,Rural
+San Andres,0.0,Rural
+San Fernando,0.0,Rural
+San Jose,31.24,Rural
+Santa Fe,0.0,Rural
+Santa Maria,0.0,Rural
+
+# Bicol Region (Region V)
+Bicol Region,40.21,Suburban
+
+## Albay
+Albay,42.89,Suburban
+Bacacay,0.0,Rural
+Camalig,31.24,Rural
+Daraga,53.16,Suburban
+Guinobatan,38.20,Rural
+Jovellar,0.0,Rural
+Legazpi City,71.01,Suburban
+Libon,21.17,Rural
+Malilipot,0.0,Rural
+Manito,0.0,Rural
+Mariposa,0.0,Rural
+Oas,31.24,Rural
+Pio Duran,0.0,Rural
+Polangui,38.20,Rural
+Rapu-Rapu,0.0,Rural
+Santo Domingo,0.0,Rural
+Tabaco City,53.16,Suburban
+Tiwi,21.17,Rural
+
+## Camarines Norte
+Camarines Norte,35.76,Rural
+Basud,0.0,Rural
+Capalonga,0.0,Rural
+Daet,53.16,Suburban
+Jose Panganiban,31.24,Rural
+Labo,21.17,Rural
+Mercedes,0.0,Rural
+Panicuason,0.0,Rural
+San Lorenzo Ruiz,0.0,Rural
+San Vicente,0.0,Rural
+Santa Elena,0.0,Rural
+Talisay,38.20,Rural
+Vinzons,0.0,Rural
+
+## Camarines Sur
+Camarines Sur,37.92,Rural
+Baao,31.24,Rural
+Balatan,0.0,Rural
+Bato,0.0,Rural
+Bombom,0.0,Rural
+Buhi,21.17,Rural
+Bula,0.0,Rural
+Cabusao,0.0,Rural
+Calabanga,38.20,Rural
+Canaman,0.0,Rural
+Caramoan,0.0,Rural
+Del Gallego,0.0,Rural
+Gainza,0.0,Rural
+Garchitorena,0.0,Rural
+Goa,31.24,Rural
+Iriga City,53.16,Suburban
+Lagonoy,21.17,Rural
+Libmanan,38.20,Rural
+Lupi,0.0,Rural
+Minalabac,0.0,Rural
+Nabua,31.24,Rural
+Naga City,71.01,Suburban
+Ocampo,0.0,Rural
+Pamplona,0.0,Rural
+Pasacao,0.0,Rural
+Pili,53.16,Suburban
+Presentacion,0.0,Rural
+Ragay,21.17,Rural
+Sagñay,0.0,Rural
+San Fernando,0.0,Rural
+San Jose,31.24,Rural
+Sipocot,0.0,Rural
+Siruma,0.0,Rural
+Tigaon,0.0,Rural
+Tinambac,0.0,Rural
+
+## Catanduanes
+Catanduanes,31.95,Rural
+Bagamanoc,0.0,Rural
+Baras,0.0,Rural
+Bato,31.24,Rural
+Caramoran,0.0,Rural
+Gigmoto,0.0,Rural
+Pandan,21.17,Rural
+Panganiban,0.0,Rural
+San Andres,38.20,Rural
+San Miguel,0.0,Rural
+Viga,0.0,Rural
+Virac,53.16,Suburban
+
+## Masbate
+Masbate,31.95,Rural
+Aroroy,31.24,Rural
+Baleno,0.0,Rural
+Balud,0.0,Rural
+Batuan,0.0,Rural
+Cataingan,21.17,Rural
+Claveria,0.0,Rural
+Cawayan,0.0,Rural
+Dimasalang,0.0,Rural
+Espinosa,0.0,Rural
+Masbate City,53.16,Suburban
+Mandaon,0.0,Rural
+Milagros,38.20,Rural
+Monreal,0.0,Rural
+Palanas,0.0,Rural
+Pio V. Corpuz,0.0,Rural
+Placer,31.24,Rural
+San Fernando,0.0,Rural
+San Jacinto,0.0,Rural
+San Pascual,21.17,Rural
+Uson,0.0,Rural
+
+## Sorsogon
+Sorsogon,35.76,Rural
+Barcelona,0.0,Rural
+Bulan,38.20,Rural
+Bulusan,0.0,Rural
+Casiguran,21.17,Rural
+Castilla,0.0,Rural
+Donsol,31.24,Rural
+Gubat,38.20,Rural
+Irosin,31.24,Rural
+Juban,0.0,Rural
+Magallanes,0.0,Rural
+Matnog,21.17,Rural
+Pilar,0.0,Rural
+Prieto Diaz,0.0,Rural
+Santa Magdalena,0.0,Rural
+Sorsogon City,53.16,Suburban
+
+# Western Visayas (Region VI)
+Western Visayas,44.87,Suburban
+
+## Aklan
+Aklan,35.76,Rural
+Altavas,0.0,Rural
+Balete,0.0,Rural
+Banga,31.24,Rural
+Batan,0.0,Rural
+Buruanga,0.0,Rural
+Ibajay,21.17,Rural
+Kalibo,53.16,Suburban
+Lezo,0.0,Rural
+Libacao,0.0,Rural
+Madalag,0.0,Rural
+Makato,0.0,Rural
+Malay,71.01,Suburban
+Malinao,0.0,Rural
+Nabas,31.24,Rural
+New Washington,38.20,Rural
+Numancia,21.17,Rural
+Tangalan,0.0,Rural
+
+## Antique
+Antique,31.95,Rural
+Anini-y,0.0,Rural
+Barbaza,0.0,Rural
+Belison,0.0,Rural
+Bugasong,31.24,Rural
+Caluya,0.0,Rural
+Culasi,21.17,Rural
+Hamtic,0.0,Rural
+Laua-an,0.0,Rural
+Libertad,0.0,Rural
+Pandan,38.20,Rural
+Patnongon,0.0,Rural
+San Jose de Buenavista,53.16,Suburban
+San Remigio,0.0,Rural
+Sebaste,0.0,Rural
+Sibalom,31.24,Rural
+Tibiao,0.0,Rural
+Tobias Fornier,21.17,Rural
+Valderrama,0.0,Rural
+
+## Capiz
+Capiz,37.92,Rural
+Cuartero,0.0,Rural
+Dao,0.0,Rural
+Dumalag,0.0,Rural
+Dumarao,31.24,Rural
+Ivisan,0.0,Rural
+Jamindan,0.0,Rural
+Ma-ayon,0.0,Rural
+Mambusao,38.20,Rural
+Panay,0.0,Rural
+Panitan,0.0,Rural
+Pilar,21.17,Rural
+President Roxas,0.0,Rural
+Roxas City,53.16,Suburban
+Sapian,0.0,Rural
+Sigma,0.0,Rural
+Tapaz,31.24,Rural
+
+## Guimaras
+Guimaras,31.95,Rural
+Buenavista,31.24,Rural
+Jordan,53.16,Suburban
+Nueva Valencia,0.0,Rural
+San Lorenzo,0.0,Rural
+Sibunag,0.0,Rural
+
+## Iloilo
+Iloilo,47.03,Suburban
+Ajuy,0.0,Rural
+Alimodian,0.0,Rural
+Anilao,31.24,Rural
+Badiangan,0.0,Rural
+Balasan,0.0,Rural
+Banate,21.17,Rural
+Barotac Nuevo,38.20,Rural
+Barotac Viejo,0.0,Rural
+Batad,0.0,Rural
+Bingawan,0.0,Rural
+Cabatuan,31.24,Rural
+Calinog,0.0,Rural
+Carles,21.17,Rural
+Concepcion,0.0,Rural
+Dingle,38.20,Rural
+Dueñas,0.0,Rural
+Dumangas,0.0,Rural
+Estancia,31.24,Rural
+Guimbal,0.0,Rural
+Igbaras,0.0,Rural
+Iloilo City,71.01,Suburban
+Janiuay,21.17,Rural
+Lambunao,0.0,Rural
+Leganes,38.20,Rural
+Lemery,0.0,Rural
+Leon,0.0,Rural
+Maasin,31.24,Rural
+Miagao,0.0,Rural
+Mina,0.0,Rural
+New Lucena,21.17,Rural
+Oton,38.20,Rural
+Pavia,53.16,Suburban
+Pototan,31.24,Rural
+San Dionisio,0.0,Rural
+San Enrique,0.0,Rural
+San Joaquin,21.17,Rural
+San Miguel,0.0,Rural
+San Rafael,0.0,Rural
+Santa Barbara,38.20,Rural
+Sara,0.0,Rural
+Tigbauan,31.24,Rural
+Tubungan,0.0,Rural
+Zarraga,21.17,Rural
+
+## Negros Occidental
+Negros Occidental,47.03,Suburban
+Bago City,53.16,Suburban
+Binalbagan,31.24,Rural
+Cadiz City,71.01,Suburban
+Calatrava,0.0,Rural
+Candoni,0.0,Rural
+Cauayan,21.17,Rural
+Enrique B. Magalona,38.20,Rural
+Escalante City,31.24,Rural
+Himamaylan City,53.16,Suburban
+Hinigaran,21.17,Rural
+Hinoba-an,0.0,Rural
+Ilog,0.0,Rural
+Isabela,38.20,Rural
+Kabankalan City,53.16,Suburban
+La Carlota City,71.01,Suburban
+La Castellana,0.0,Rural
+Maoapascua,0.0,Rural
+Moises Padilla,31.24,Rural
+Murcia,21.17,Rural
+Pontevedra,0.0,Rural
+Pulupandan,38.20,Rural
+Sagay City,53.16,Suburban
+Salvador Benedicto,0.0,Rural
+San Carlos City,71.01,Suburban
+San Enrique,0.0,Rural
+Silay City,53.16,Suburban
+Sipalay City,38.20,Rural
+Talisay City,71.01,Suburban
+Toboso,0.0,Rural
+Valladolid,31.24,Rural
+Victoria,21.17,Rural
+Victorias City,53.16,Suburban
+Bacolod City,71.01,Suburban
+
+# Central Visayas (Region VII)
+Central Visayas,49.32,Suburban
+
+## Bohol
+Bohol,29.94,Rural
+Alburquerque,0.0,Rural
+Alicia,0.0,Rural
+Aliguay,0.0,Rural
+Anda,43.16,Suburban
+Antequera,0.0,Rural
+Baclayon,0.0,Rural
+Balilihan,0.0,Rural
+Batuan,0.0,Rural
+Bien Unido,0.0,Rural
+Bilar,0.0,Rural
+Buenavista,0.0,Rural
+Calape,21.88,Rural
+Candijay,0.0,Rural
+Carmen,0.0,Rural
+Clarin,0.0,Rural
+Corella,0.0,Rural
+Cortes,0.0,Rural
+Dagohoy,0.0,Rural
+Danao,0.0,Rural
+Dauis,70.57,Suburban
+Dimiao,0.0,Rural
+Duero,0.0,Rural
+Garcia Hernandez,0.0,Rural
+Getafe,0.0,Rural
+Guindulman,0.0,Rural
+Inabanga,0.0,Rural
+Jagna,43.58,Suburban
+Lila,0.0,Rural
+Loay,0.0,Rural
+Loboc,0.0,Rural
+Loon,0.0,Rural
+Mabini,0.0,Rural
+Maibojoc,0.0,Rural
+Panglao,70.57,Suburban
+Pilar,0.0,Rural
+President Carlos P. Garcia,0.0,Rural
+Sagbayan,0.0,Rural
+San Isidro,0.0,Rural
+San Miguel,0.0,Rural
+Sevilla,0.0,Rural
+Sierra Bullones,0.0,Rural
+Siquijor,0.0,Rural
+Talibon,31.24,Rural
+Trinidad,0.0,Rural
+Tubigon,21.17,Rural
+Ubay,31.56,Rural
+Valencia,0.0,Rural
+Tagbilaran City,94.04,Urban
+
+## Cebu
+Cebu,76.91,Suburban
+Alcantara,0.0,Rural
+Alcoy,0.0,Rural
+Alegria,0.0,Rural
+Alling,0.0,Rural
+Argao,22.46,Rural
+Asturias,8.65,Rural
+Badian,0.0,Rural
+Balamban,71.31,Suburban
+Bantayan,51.07,Suburban
+Barili,71.90,Suburban
+Bogo City,70.90,Suburban
+Boljoon,0.0,Rural
+Borbon,30.05,Rural
+Carcar City,98.04,Urban
+Carmen,70.03,Suburban
+Catmon,38.20,Rural
+Compostela,76.95,Suburban
+Consolacion,98.02,Urban
+Cordova,100.0,Urban
+Daan Bantayan,93.17,Urban
+Dalaguete,71.15,Suburban
+Danao City,27.92,Rural
+Dumanjug,11.66,Rural
+Ginatilan,0.0,Rural
+Liloan,94.61,Urban
+Madridejos,0.0,Rural
+Malabuyoc,19.72,Rural
+Medellin,0.0,Rural
+Minglanilla,94.04,Urban
+Moalboal,29.46,Rural
+Naga City,51.14,Suburban
+Oslob,53.41,Suburban
+Pilar,0.0,Rural
+Pinamungajan,52.78,Suburban
+Poro,48.42,Suburban
+Ronda,11.40,Rural
+Samboan,0.0,Rural
+San Fernando,93.62,Urban
+San Francisco,76.56,Suburban
+San Remigio,0.0,Rural
+Santa Fe,100.0,Urban
+Santander,28.34,Rural
+Sibonga,72.55,Suburban
+Sogod,0.0,Rural
+Tabogon,0.0,Rural
+Tabuelan,0.0,Rural
+Talisay City,79.45,Suburban
+Toledo City,43.83,Suburban
+Tuburan,1.38,Rural
+Cebu City,94.59,Urban
+Lapu-Lapu City,83.83,Urban
+Mandaue City,80.12,Urban
+
+## Negros Oriental
+Negros Oriental,30.60,Rural
+Amlan,0.0,Rural
+Ayungon,0.0,Rural
+Bacong,34.69,Rural
+Bais City,79.45,Suburban
+Basay,10.30,Rural
+Bayawan City,15.10,Rural
+Bindoy,20.21,Rural
+Canlaon City,94.04,Urban
+Dauin,0.0,Rural
+Dumaguete City,83.83,Urban
+Guihulngan City,17.31,Rural
+Jimalalud,12.93,Rural
+La Libertad,17.97,Rural
+Mabinay,32.19,Rural
+Manjuyod,0.0,Rural
+Pamplona,20.97,Rural
+San Jose,43.83,Suburban
+Santa Catalina,1.38,Rural
+Siaton,46.59,Suburban
+Sibulan,0.0,Rural
+Tanjay City,61.02,Suburban
+Tayasan,0.0,Rural
+Valencia,43.16,Suburban
+Vallehermoso,0.0,Rural
+Zamboanguita,4.27,Rural
+
+## Siquijor
+Siquijor,30.60,Rural
+Enrique Villanueva,0.0,Rural
+Larena,34.69,Rural
+Lazi,5.72,Rural
+Maria,25.76,Rural
+San Juan,10.30,Rural
+Siquijor,15.10,Rural
+
+# Eastern Visayas (Region VIII)
+Eastern Visayas,30.60,Rural
+
+## Biliran
+Biliran,30.60,Rural
+Almeria,0.0,Rural
+Biliran,34.69,Rural
+Cabucgayan,5.72,Rural
+Caibiran,25.76,Rural
+Culaba,10.30,Rural
+Kawayan,15.10,Rural
+Maripipi,20.21,Rural
+Naval,0.0,Rural
+
+## Eastern Samar
+Eastern Samar,30.60,Rural
+Arteche,0.0,Rural
+Balangiga,34.69,Rural
+Balangkayan,5.72,Rural
+Borongan City,25.76,Rural
+Can-avid,10.30,Rural
+Dolores,15.10,Rural
+General MacArthur,20.21,Rural
+Giporlos,0.0,Rural
+Guiuan,17.31,Rural
+Hernani,12.93,Rural
+Jipapad,17.97,Rural
+Lawaan,32.19,Rural
+Llorente,0.0,Rural
+Maslog,20.97,Rural
+Maydolong,43.83,Suburban
+Mercedes,1.38,Rural
+Oquendo,46.59,Suburban
+Quinapondan,0.0,Rural
+Salcedo,61.02,Suburban
+San Julian,0.0,Rural
+San Policarpo,43.16,Suburban
+Sulat,0.0,Rural
+Taft,4.27,Rural
+
+## Leyte
+Leyte,30.60,Rural
+Abuyog,0.0,Rural
+Alangalang,34.69,Rural
+Albuera,5.72,Rural
+Babatngon,25.76,Rural
+Barugo,10.30,Rural
+Bato,15.10,Rural
+Baybay City,20.21,Rural
+Burauen,0.0,Rural
+Capoocan,17.31,Rural
+Carigara,12.93,Rural
+Dagami,17.97,Rural
+Dulag,32.19,Rural
+Hilongos,0.0,Rural
+Hindang,20.97,Rural
+Inopacan,43.83,Suburban
+Isabel,1.38,Rural
+Jaro,46.59,Suburban
+Javier,0.0,Rural
+Julita,61.02,Suburban
+Kananga,0.0,Rural
+La Paz,43.16,Suburban
+Leyte,0.0,Rural
+MacArthur,4.27,Rural
+Mahaplag,0.0,Rural
+Matag-ob,34.69,Rural
+Matalom,5.72,Rural
+Mayorga,25.76,Rural
+Merida,10.30,Rural
+Palo,15.10,Rural
+Palompon,20.21,Rural
+Pastrana,0.0,Rural
+San Isidro,17.31,Rural
+San Miguel,12.93,Rural
+Santa Fe,17.97,Rural
+Tabango,32.19,Rural
+Tabontabon,0.0,Rural
+Tanauan,20.97,Rural
+Tolosa,43.83,Suburban
+Tunga,1.38,Rural
+Villaba,46.59,Suburban
+Ormoc City,94.04,Urban
+Tacloban City,83.83,Urban
+
+## Northern Samar
+Northern Samar,30.60,Rural
+Allen,0.0,Rural
+Biri,34.69,Rural
+Bobon,5.72,Rural
+Capul,25.76,Rural
+Catarman,10.30,Rural
+Catubig,15.10,Rural
+Gameoc,20.21,Rural
+Lao-ang,0.0,Rural
+Lapinig,17.31,Rural
+Las Navas,12.93,Rural
+Lavezares,17.97,Rural
+Lope de Vega,32.19,Rural
+Mapanas,0.0,Rural
+Mondragon,20.97,Rural
+Palapag,43.83,Suburban
+Pambujan,1.38,Rural
+Rosario,46.59,Suburban
+San Antonio,0.0,Rural
+San Isidro,61.02,Suburban
+San Jose,0.0,Rural
+San Roque,43.16,Suburban
+San Vicente,0.0,Rural
+Silvino Lobos,4.27,Rural
+Victoria,0.0,Rural
+
+## Samar
+Samar,30.60,Rural
+Almagro,0.0,Rural
+Basey,34.69,Rural
+Calbayog City,94.04,Urban
+Calbiga,5.72,Rural
+Catbalogan City,83.83,Urban
+Daram,25.76,Rural
+Gandara,10.30,Rural
+Hinabangan,15.10,Rural
+Jiabong,20.21,Rural
+Marabut,0.0,Rural
+Maripipig,17.31,Rural
+Motiong,12.93,Rural
+Pagsanghan,17.97,Rural
+Paranas,32.19,Rural
+Pinabacdao,0.0,Rural
+San Jorge,20.97,Rural
+San Jose de Buan,43.83,Suburban
+San Sebastian,1.38,Rural
+Santa Margarita,46.59,Suburban
+Santa Rita,0.0,Rural
+Santo Niño,61.02,Suburban
+Tagapul-an,0.0,Rural
+Talalora,43.16,Suburban
+Tarangnan,0.0,Rural
+Villareal,4.27,Rural
+Zumarraga,0.0,Rural
+
+## Southern Leyte
+Southern Leyte,30.60,Rural
+Anahawan,0.0,Rural
+Bontoc,34.69,Rural
+Hinunangan,5.72,Rural
+Hinundayan,25.76,Rural
+Libagon,10.30,Rural
+Liloan,15.10,Rural
+Limasawa,20.21,Rural
+Maasin City,94.04,Urban
+Macrohon,0.0,Rural
+Malitbog,17.31,Rural
+Padre Burgos,12.93,Rural
+Pintuyan,17.97,Rural
+Saint Bernard,32.19,Rural
+San Francisco,0.0,Rural
+San Juan,20.97,Rural
+San Ricardo,43.83,Suburban
+Silago,1.38,Rural
+Sogod,46.59,Suburban
+Tomas Oppus,0.0,Rural
+
+# Zamboanga Peninsula (Region IX)
+Zamboanga Peninsula,30.60,Rural
+
+## Zamboanga del Norte
+Zamboanga del Norte,30.60,Rural
+Baliguian,0.0,Rural
+Dipolog City,94.04,Urban
+Godod,34.69,Rural
+Gutalac,5.72,Rural
+Jose Dalman,25.76,Rural
+Kalawit,10.30,Rural
+Katipunan,15.10,Rural
+La Libertad,20.21,Rural
+Labason,0.0,Rural
+Leon B. Postigo,17.31,Rural
+Liloy,12.93,Rural
+Manukan,17.97,Rural
+Mutia,32.19,Rural
+Piñan,0.0,Rural
+Polanco,20.97,Rural
+Pres. Manuel A. Roxas,43.83,Suburban
+Rizal,1.38,Rural
+Salug,46.59,Suburban
+Sergion Osmena Sr.,0.0,Rural
+Siayan,61.02,Suburban
+Sibuco,0.0,Rural
+Sibutad,43.16,Suburban
+Sindangan,0.0,Rural
+Siocon,4.27,Rural
+Sirawai,0.0,Rural
+Tampilisan,34.69,Rural
+Dapitan City,83.83,Urban
+
+## Zamboanga del Sur
+Zamboanga del Sur,30.60,Rural
+Aurora,0.0,Rural
+Bayog,34.69,Rural
+Dimataling,5.72,Rural
+Dinas,25.76,Rural
+Dumalinao,10.30,Rural
+Dumingag,15.10,Rural
+Guipos,20.21,Rural
+Josefina,0.0,Rural
+Kumalarang,17.31,Rural
+Labangan,12.93,Rural
+Lakewood,17.97,Rural
+Lapuyan,32.19,Rural
+Mahayag,0.0,Rural
+Margosatubig,20.97,Rural
+Midsalip,43.83,Suburban
+Molave,1.38,Rural
+Pitogo,46.59,Suburban
+Ramon Magsaysay,0.0,Rural
+San Miguel,61.02,Suburban
+San Pablo,0.0,Rural
+Tabina,43.16,Suburban
+Tambulig,0.0,Rural
+Tukuran,4.27,Rural
+Vincenzo A. Sagun,0.0,Rural
+Pagadian City,94.04,Urban
+Zamboanga City,83.83,Urban
+
+## Zamboanga Sibugay
+Zamboanga Sibugay,30.60,Rural
+Alicia,0.0,Rural
+Buug,34.69,Rural
+Diplahan,5.72,Rural
+Imelda,25.76,Rural
+Ipil,10.30,Rural
+Kabasalan,15.10,Rural
+Mabuhay,20.21,Rural
+Marabut,0.0,Rural
+Naga,17.31,Rural
+Oquendo,12.93,Rural
+Payao,17.97,Rural
+Roseller Lim,32.19,Rural
+Siay,0.0,Rural
+Talusan,20.97,Rural
+Titay,43.83,Suburban
+Tungawan,1.38,Rural
+
+# Northern Mindanao (Region X)
+Northern Mindanao,49.32,Suburban
+
+## Bukidnon
+Bukidnon,29.94,Rural
+Baungon,0.0,Rural
+Calatrava,0.0,Rural
+Damulog,0.0,Rural
+Don Carlos,43.16,Suburban
+Impasugong,0.0,Rural
+Kadingilan,0.0,Rural
+Kalilangan,0.0,Rural
+Kibawe,21.88,Rural
+Kitaotao,0.0,Rural
+Lantapan,0.0,Rural
+Libona,0.0,Rural
+Malitbog,0.0,Rural
+Manolo Fortich,0.0,Rural
+Maramag,70.57,Suburban
+Pangantucan,0.0,Rural
+Quezon,0.0,Rural
+San Fernando,0.0,Rural
+Sumilao,0.0,Rural
+Talakag,0.0,Rural
+Malaybalay City,94.04,Urban
+Valencia City,83.83,Urban
+
+## Camiguin
+Camiguin,30.60,Rural
+Catarman,0.0,Rural
+Guinsiliban,34.69,Rural
+Mahinog,5.72,Rural
+Mambajao,25.76,Rural
+Sagay,10.30,Rural
+
+## Lanao del Norte
+Lanao del Norte,30.60,Rural
+Baloi,0.0,Rural
+Bacolod,34.69,Rural
+Balingasag,5.72,Rural
+Binuang,25.76,Rural
+Kauswagan,10.30,Rural
+Kolambugan,15.10,Rural
+Lala,20.21,Rural
+Linamon,0.0,Rural
+Matungao,17.31,Rural
+Maigo,12.93,Rural
+Munai,17.97,Rural
+Nunungan,32.19,Rural
+Pantao Ragat,0.0,Rural
+Pantar,20.97,Rural
+Poona Piagapo,43.83,Suburban
+Salvador,1.38,Rural
+Sapad,46.59,Suburban
+Sultan Naga Dimaporo,0.0,Rural
+Tagoloan,61.02,Suburban
+Tangcal,0.0,Rural
+Tubod,43.16,Suburban
+Iligan City,94.04,Urban
+
+## Misamis Occidental
+Misamis Occidental,30.60,Rural
+Aloran,0.0,Rural
+Baliangao,34.69,Rural
+Bonifacio,5.72,Rural
+Calamba,25.76,Rural
+Clarin,10.30,Rural
+Concepcion,15.10,Rural
+Don Victoriano Chiongbian,20.21,Rural
+Jimenez,0.0,Rural
+Lopez Jaena,17.31,Rural
+Panaon,12.93,Rural
+Plaridel,17.97,Rural
+Sapang Dalaga,32.19,Rural
+Sinacaban,0.0,Rural
+Tudela,20.97,Rural
+Ozamiz City,94.04,Urban
+Tangub City,83.83,Urban
+
+## Misamis Oriental
+Misamis Oriental,30.60,Rural
+Alubijid,0.0,Rural
+Balingasag,34.69,Rural
+Binuangan,5.72,Rural
+Claveria,25.76,Rural
+Gitagum,10.30,Rural
+Initao,15.10,Rural
+Jasaan,20.21,Rural
+Kinoguitan,0.0,Rural
+Lagonglong,17.31,Rural
+Laguindingan,12.93,Rural
+Libertad,17.97,Rural
+Lugait,32.19,Rural
+Magsaysay,0.0,Rural
+Medina,20.97,Rural
+Naawan,43.83,Suburban
+Opol,1.38,Rural
+Salay,46.59,Suburban
+Sugbongcogon,0.0,Rural
+Tagoloan,61.02,Suburban
+Talisayan,0.0,Rural
+Villanueva,43.16,Suburban
+El Salvador City,94.04,Urban
+Gingoog City,83.83,Urban
+Cagayan de Oro City,80.12,Urban
+
+# Davao Region (Region XI)
+Davao Region,49.32,Suburban
+
+## Davao de Oro
+Davao de Oro,29.94,Rural
+Compostela,0.0,Rural
+Laak,0.0,Rural
+Mabini,0.0,Rural
+Maragusan,43.16,Suburban
+Mawab,0.0,Rural
+Monkayo,0.0,Rural
+Montevista,0.0,Rural
+Nabunturan,21.88,Rural
+New Bataan,0.0,Rural
+Pantukan,0.0,Rural
+
+## Davao del Norte
+Davao del Norte,30.60,Rural
+Asuncion,0.0,Rural
+Braulio E. Dujali,34.69,Rural
+Carmen,5.72,Rural
+Kapalong,25.76,Rural
+New Corella,10.30,Rural
+San Isidro,15.10,Rural
+Santo Tomas,20.21,Rural
+Talaingod,0.0,Rural
+Panabo City,94.04,Urban
+Samal City,83.83,Urban
+Tagum City,80.12,Urban
+
+## Davao del Sur
+Davao del Sur,30.60,Rural
+Bansalan,0.0,Rural
+Hagonoy,34.69,Rural
+Kiblawan,5.72,Rural
+Magsaysay,25.76,Rural
+Matanao,10.30,Rural
+Padada,15.10,Rural
+Santa Cruz,20.21,Rural
+Sulop,0.0,Rural
+Digos City,94.04,Urban
+Davao City,83.83,Urban
+
+## Davao Occidental
+Davao Occidental,30.60,Rural
+Don Marcelino,0.0,Rural
+Jose Abad Santos,34.69,Rural
+Malita,5.72,Rural
+Santa Maria,25.76,Rural
+Sarangani,10.30,Rural
+
+## Davao Oriental
+Davao Oriental,30.60,Rural
+Baganga,0.0,Rural
+Banaybanay,34.69,Rural
+Boston,5.72,Rural
+Caraga,25.76,Rural
+Cateel,10.30,Rural
+Governor Generoso,15.10,Rural
+Lupon,20.21,Rural
+Manay,0.0,Rural
+San Isidro,17.31,Rural
+Tarragona,12.93,Rural
+Mati City,94.04,Urban
+
+# SOCCSKSARGEN (Region XII)
+SOCCSKSARGEN,49.32,Suburban
+
+## Cotabato
+Cotabato,29.94,Rural
+Alamada,0.0,Rural
+Aleosan,0.0,Rural
+Arakan,0.0,Rural
+Banisilan,43.16,Suburban
+Carmona,0.0,Rural
+Kabacan,0.0,Rural
+Libungan,0.0,Rural
+M'lang,21.88,Rural
+Magpet,0.0,Rural
+Matalam,0.0,Rural
+Midsayap,0.0,Rural
+Pigkawayan,0.0,Rural
+Pikit,0.0,Rural
+President Roxas,70.57,Suburban
+Tulunan,0.0,Rural
+Kidapawan City,94.04,Urban
+
+## Sarangani
+Sarangani,30.60,Rural
+Alabel,0.0,Rural
+Glan,34.69,Rural
+Kiamba,5.72,Rural
+Maasim,25.76,Rural
+Maitum,10.30,Rural
+Malapatan,15.10,Rural
+Malungon,20.21,Rural
+
+## South Cotabato
+South Cotabato,30.60,Rural
+Banga,0.0,Rural
+Lake Sebu,34.69,Rural
+Norala,5.72,Rural
+Polomolok,25.76,Rural
+Santo Niño,10.30,Rural
+Surallah,15.10,Rural
+Tambangan,20.21,Rural
+Tantangan,0.0,Rural
+T'boli,17.31,Rural
+Tupi,12.93,Rural
+Koronadal City,94.04,Urban
+General Santos City,83.83,Urban
+
+## Sultan Kudarat
+Sultan Kudarat,30.60,Rural
+Bagumbayan,0.0,Rural
+Columbio,34.69,Rural
+Esperanza,5.72,Rural
+Isulan,25.76,Rural
+Kalamansig,10.30,Rural
+Lambayong,15.10,Rural
+Lebak,20.21,Rural
+Lutayan,0.0,Rural
+Palimbang,17.31,Rural
+President Quirino,12.93,Rural
+Sen. Ninoy Aquino,17.97,Rural
+Tacurong City,94.04,Urban
+
+# Caraga (Region XIII)
+Caraga,49.32,Suburban
+
+## Agusan del Norte
+Agusan del Norte,29.94,Rural
+Buenavista,0.0,Rural
+Carmen,0.0,Rural
+Jabonga,0.0,Rural
+Kitcharao,43.16,Suburban
+Las Nieves,0.0,Rural
+Magallanes,0.0,Rural
+Nasipit,0.0,Rural
+RTRomualdez,21.88,Rural
+Santiago,0.0,Rural
+Tubay,0.0,Rural
+Cabadbaran City,94.04,Urban
+Butuan City,83.83,Urban
+
+## Agusan del Sur
+Agusan del Sur,30.60,Rural
+Bunawan,0.0,Rural
+Esperanza,34.69,Rural
+La Paz,5.72,Rural
+Loreto,25.76,Rural
+Prosperity,10.30,Rural
+Rosario,15.10,Rural
+San Francisco,20.21,Rural
+San Luis,0.0,Rural
+Santa Josefa,17.31,Rural
+Sibagat,12.93,Rural
+Talacogon,17.97,Rural
+Trailblazes,32.19,Rural
+Veruela,0.0,Rural
+
+## Dinagat Islands
+Dinagat Islands,30.60,Rural
+Basilisa,0.0,Rural
+Cagdianao,34.69,Rural
+Dinagat,5.72,Rural
+Libjo,25.76,Rural
+Loreto,10.30,Rural
+San Jose,15.10,Rural
+Tubajon,20.21,Rural
+
+## Surigao del Norte
+Surigao del Norte,30.60,Rural
+Allegria,0.0,Rural
+Bacuag,34.69,Rural
+Burgos,5.72,Rural
+Claver,25.76,Rural
+Dapa,10.30,Rural
+Del Carmen,15.10,Rural
+General Luna,20.21,Rural
+Gigaquit,0.0,Rural
+Mainit,17.31,Rural
+Malimono,12.93,Rural
+Pilar,17.97,Rural
+Placer,32.19,Rural
+San Benito,0.0,Rural
+San Francisco,20.97,Rural
+San Isidro,43.83,Suburban
+Santa Monica,1.38,Rural
+Sison,46.59,Suburban
+Tagana-an,0.0,Rural
+Tubod,61.02,Suburban
+Surigao City,94.04,Urban
+
+## Surigao del Sur
+Surigao del Sur,30.60,Rural
+Barobo,0.0,Rural
+Bayabas,34.69,Rural
+Cagwait,5.72,Rural
+Cantilan,25.76,Rural
+Carmen,10.30,Rural
+Carrascal,15.10,Rural
+Cortes,20.21,Rural
+Hinatuan,0.0,Rural
+Lanuza,17.31,Rural
+Lianga,12.93,Rural
+Lingig,17.97,Rural
+Madrid,32.19,Rural
+Marihatag,0.0,Rural
+San Agustin,20.97,Rural
+San Miguel,43.83,Suburban
+Tagbina,1.38,Rural
+Tago,46.59,Suburban
+Bislig City,94.04,Urban
+Tandag City,83.83,Urban
+
+# BARMM (Bangsamoro Autonomous Region in Muslim Mindanao)
+BARMM,31.56,Rural
+
+## Basilan
+Basilan,26.07,Rural
+Isabela City,71.15,Suburban
+Lamitan City,68.42,Suburban
+Akbar,0.0,Rural
+Al-Barka,0.0,Rural
+Hadji Mohammad Ajul,0.0,Rural
+Hadji Muhtamad,0.0,Rural
+Lantawan,0.0,Rural
+Maluso,0.0,Rural
+Sumisip,0.0,Rural
+Tipo-Tipo,0.0,Rural
+Tuburan,0.0,Rural
+Ungkaya Pukan,0.0,Rural
+
+## Lanao del Sur
+Lanao del Sur,21.67,Rural
+Marawi City,93.44,Urban
+Bacolod-Kalawi,0.0,Rural
+Balabagan,0.0,Rural
+Balindong,0.0,Rural
+Bayang,0.0,Rural
+Bindayan,0.0,Rural
+Buadiposo-Buntong,0.0,Rural
+Bubong,0.0,Rural
+Bumbaran,0.0,Rural
+Butig,0.0,Rural
+Calanogas,0.0,Rural
+Ditsaan-Ramain,0.0,Rural
+Ganassi,0.0,Rural
+Kapai,0.0,Rural
+Lumba-Bayabao,0.0,Rural
+Lumbaca-Unayan,0.0,Rural
+Lumbatan,0.0,Rural
+Lumbayanague,0.0,Rural
+Madalum,0.0,Rural
+Madamba,0.0,Rural
+Maguing,0.0,Rural
+Malabang,31.24,Rural
+Manar,0.0,Rural
+Marantao,0.0,Rural
+Marogong,0.0,Rural
+Masiu,0.0,Rural
+Mulondo,0.0,Rural
+Pagayawan,0.0,Rural
+Piagapo,0.0,Rural
+Poona Bayabao,0.0,Rural
+Pualas,0.0,Rural
+Saguiaran,0.0,Rural
+Sultan Dumalondong,0.0,Rural
+Picong,0.0,Rural
+Tagoloan II,0.0,Rural
+Tamparan,0.0,Rural
+Taraka,0.0,Rural
+Tubaran,0.0,Rural
+Tugaya,0.0,Rural
+Wao,0.0,Rural
+
+## Maguindanao
+Maguindanao,19.71,Rural
+Cotabato City,75.13,Suburban
+Ampatuan,0.0,Rural
+Barolod,0.0,Rural
+Buldon,0.0,Rural
+Buluan,0.0,Rural
+Datu Abdullah Sangki,0.0,Rural
+Datu Anggal Midtimbang,0.0,Rural
+Datu Blah T. Sinsuat,0.0,Rural
+Datu Hoffer Ampatuan,0.0,Rural
+Datu Montawal,0.0,Rural
+Datu Odin Sinsuat,42.15,Suburban
+Datu Paglas,0.0,Rural
+Datu Piang,0.0,Rural
+Datu Saudi-Ampatuan,0.0,Rural
+Datu Unsay,0.0,Rural
+General Salipada K. Pendatun,0.0,Rural
+Guindulungan,0.0,Rural
+Kabuntalan,0.0,Rural
+Mamasapano,0.0,Rural
+Mangudadatu,0.0,Rural
+Pagalungan,0.0,Rural
+Paglat,0.0,Rural
+Pandag,0.0,Rural
+Rajah Buayan,0.0,Rural
+Shariff Aguak,0.0,Rural
+Shariff Saydona Mustapha,0.0,Rural
+South Upi,0.0,Rural
+Sultan Kudarat,0.0,Rural
+Sultan Mastura,0.0,Rural
+Sultan sa Barongis,0.0,Rural
+Talayan,0.0,Rural
+Talitay,0.0,Rural
+Upi,0.0,Rural
+
+## Sulu
+Sulu,25.44,Rural
+Jolo,100.0,Urban
+Hadji Panglima Tahil,0.0,Rural
+Indanan,0.0,Rural
+Kalingalan Caluang,0.0,Rural
+Luuk,0.0,Rural
+Marunggas,0.0,Rural
+Old Panamao,0.0,Rural
+Omar,0.0,Rural
+Pandami,0.0,Rural
+Panglima Estino,0.0,Rural
+Pangutaran,0.0,Rural
+Parang,0.0,Rural
+Pata,0.0,Rural
+Patikul,0.0,Rural
+Siasi,0.0,Rural
+Talipao,0.0,Rural
+Tapul,0.0,Rural
+Tongkil,0.0,Rural
+
+## Tawi-Tawi
+Tawi-Tawi,20.34,Rural
+Bongao,51.24,Suburban
+Languan,0.0,Rural
+Mapun,0.0,Rural
+Panglima Sugala,0.0,Rural
+Sapa-Sapa,0.0,Rural
+Sibutu,0.0,Rural
+Simunul,0.0,Rural
+Sitangkai,0.0,Rural
+South Ubian,0.0,Rural
+Tandubas,0.0,Rural
+Turtle Islands,0.0,Rural
+
+## Interim Province
+Cotabato City,75.13,Suburban
+

@@ -1,0 +1,26 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme -->
+    <style name="Base.Theme.TierraHomes" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Hide status bar -->
+
+
+        <!-- ✅ Ensures system bars (status/navigation) are visible and content adjusts automatically -->
+        <item name="android:fitsSystemWindows">true</item>
+
+        <!-- Color assignments -->
+        <item name="colorPrimary">@color/colorAccent</item>
+        <item name="colorPrimaryVariant">@color/colorBorder</item>
+        <item name="colorOnPrimary">@color/colorPrimaryText</item>
+        <item name="android:windowBackground">@color/colorBackground</item>
+
+        <!-- Optional Material Design theming -->
+        <item name="colorSecondary">@color/colorSecondaryText</item>
+        <item name="colorOnSecondary">@color/colorBackground1</item>
+        <item name="colorSurface">@color/colorCard</item>
+        <item name="colorOnSurface">@color/colorPrimaryText1</item>
+        <item name="colorOutline">@color/colorBorder</item>
+    </style>
+
+    <!-- Public theme alias -->
+    <style name="Theme.TierraHomes" parent="Base.Theme.TierraHomes" />
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="180dp"
+    android:height="180dp"
+    android:viewportWidth="180"
+    android:viewportHeight="180">
+    
+    <!-- Rounded rectangle background -->
+    <path
+        android:fillColor="#FAF9F0"
+        android:pathData="M20,0 L160,0 A20,20 0 0,1 180,20 L180,160 A20,20 0 0,1 160,180 L20,180 A20,20 0 0,1 0,160 L0,20 A20,20 0 0,1 20,0 Z" />
+    
+    <!-- Logo placeholder - you can replace this with your actual logo vector -->
+    <path
+        android:fillColor="#333333"
+        android:pathData="M90,40 L130,40 L130,140 L90,140 Z" />
+    
+    <!-- House roof -->
+    <path
+        android:fillColor="#666666"
+        android:pathData="M80,40 L140,40 L110,20 Z" />
+    
+    <!-- Door -->
+    <path
+        android:fillColor="#444444"
+        android:pathData="M100,100 L120,100 L120,140 L100,140 Z" />
+    
+    <!-- Windows -->
+    <path
+        android:fillColor="#87CEEB"
+        android:pathData="M85,60 L105,60 L105,80 L85,80 Z" />
+    <path
+        android:fillColor="#87CEEB"
+        android:pathData="M115,60 L135,60 L135,80 L115,80 Z" />
+</vector> 

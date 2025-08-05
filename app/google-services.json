@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "637114776709",
+    "project_id": "tierra-homes",
+    "storage_bucket": "tierra-homes.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637114776709:android:7baa8ce6fa9dd152a9bdec",
+        "android_client_info": {
+          "package_name": "com.example.tierrahomes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2ef83q0ajnHfiAJsU-JtLNKdi5tKiu20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

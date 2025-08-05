@@ -1,0 +1,1758 @@
+Location,Percent_Urban_2020,Classification
+NATIONAL CAPITAL REGION (NCR),100.0,Urban
+City of Manila,100.0,Urban
+City of Mandaluyong,100.0,Urban
+City of Marikina,100.0,Urban
+City of Pasig,100.0,Urban
+Quezon City,100.0,Urban
+City of San Juan,100.0,Urban
+City of Caloocan,100.0,Urban
+City of Malabon,100.0,Urban
+City of Navotas,100.0,Urban
+City of Valenzuela,100.0,Urban
+City of Las Piñas,100.0,Urban
+City of Makati,100.0,Urban
+City of Muntinlupa,100.0,Urban
+City of Parañaque,100.0,Urban
+Pasay City,100.0,Urban
+City of Taguig,100.0,Urban
+Municipality of Pateros,100.0,Urban
+
+CORDILLERA ADMINISTRATIVE REGION (CAR),33.30373930554165,Rural
+ABRA,6.448990975556308,Rural
+Bangued (Capital),32.12655313405581,Rural
+Boliney,0.0,Rural
+Bucay,0.0,Rural
+Bucloc,0.0,Rural
+Daguioman,0.0,Rural
+Danglas,0.0,Rural
+Dolores,0.0,Rural
+La Paz,0.0,Rural
+Lacub,0.0,Rural
+Lagangilang,0.0,Rural
+Lagayan,0.0,Rural
+Langiden,0.0,Rural
+Licuan-Baay (Licuan),0.0,Rural
+Luba,0.0,Rural
+Malibcong,0.0,Rural
+Manabo,0.0,Rural
+Peñarrubia,0.0,Rural
+Pidigan,0.0,Rural
+Pilar,0.0,Rural
+Sallapadan,0.0,Rural
+San Isidro,0.0,Rural
+San Juan,0.0,Rural
+San Quintin,0.0,Rural
+Tayum,0.0,Rural
+Tineg,0.0,Rural
+Tubo,0.0,Rural
+Villaviciosa,0.0,Rural
+APAYAO,0.8547352170207292,Rural
+Calanasan (Bayag),8.47011952191235,Rural
+Conner,0.0,Rural
+Flora,0.0,Rural
+Kabugao (Capital),0.0,Rural
+Luna,0.0,Rural
+Pudtol,0.0,Rural
+Santa Marcela,0.0,Rural
+BENGUET,56.46616002761118,Suburban
+Atok,22.29680507857217,Rural
+Bakun,0.0,Rural
+Bokod,22.86802909594735,Rural
+Buguias,19.758450876841145,Rural
+Itogon,86.6385898728414,Urban
+Kabayan,0.0,Rural
+Kapangan,0.0,Rural
+Kibungan,32.54354583308896,Rural
+La Trinidad (Capital),93.84661290792117,Urban
+Mankayan,35.96540703139688,Rural
+Sablan,0.0,Rural
+Tuba,65.49511508527902,Suburban
+Tublay,55.92156055381131,Suburban
+CITY OF BAGUIO,64.67062272422058,Suburban
+IFUGAO,8.043932953570637,Rural
+Banaue,0.0,Rural
+Hungduan,0.0,Rural
+Kiangan,15.54462721157651,Rural
+Lagawe (Capital),30.36660309387582,Rural
+Lamut,10.653706880121975,Rural
+Mayoyao,0.0,Rural
+Alfonso Lista (Potia),15.895011890431872,Rural
+Aguinaldo,0.0,Rural
+Hingyon,0.0,Rural
+Tinoc,0.0,Rural
+Asipulo,0.0,Rural
+KALINGA,21.170449100492224,Rural
+Balbalan,0.0,Rural
+Lubuagan,0.0,Rural
+Pasil,0.0,Rural
+Pinukpuk,0.0,Rural
+Rizal (Liwan),0.0,Rural
+City of Tabuk (Capital),40.15516429403551,Suburban
+Tanudan,0.0,Rural
+Tinglayan,0.0,Rural
+MOUNTAIN PROVINCE,12.06763590391909,Rural
+Barlig,0.0,Rural
+Bauko,0.0,Rural
+Besao,0.0,Rural
+Bontoc (Capital),22.88831729173581,Rural
+Natonin,0.0,Rural
+Paracelis,38.77053388090349,Rural
+Sabangan,0.0,Rural
+Sadanga,0.0,Rural
+Sagada,12.945264986967853,Rural
+Tadian,0.0,Rural
+
+REGION I (ILOCOS REGION),25.48895624129079,Rural
+ILOCOS NORTE,10.938043399804458,Rural
+Adams,0.0,Rural
+Bacarra,0.0,Rural
+Badoc,4.251460190593299,Rural
+Bangui,0.0,Rural
+City of Batac,7.809458582654459,Rural
+Burgos,0.0,Rural
+Carasi,0.0,Rural
+Currimao,0.0,Rural
+Dingras,3.498891021008298,Rural
+Dumalneg,0.0,Rural
+Banna (Espiritu),0.0,Rural
+City of Laoag (Capital),38.391953497953445,Rural
+Marcos,0.0,Rural
+Nueva Era,0.0,Rural
+Pagudpud,20.870188859670094,Rural
+Paoay,6.047758089676413,Rural
+Pasuquin,0.0,Rural
+Piddig,0.0,Rural
+Pinili,0.0,Rural
+San Nicolas,21.876847923897675,Rural
+Sarrat,5.689668863654411,Rural
+Solsona,0.0,Rural
+Vintar,0.0,Rural
+ILOCOS SUR,10.469129996926386,Rural
+Alilem,0.0,Rural
+Banayoyo,0.0,Rural
+Bantay,25.101029150277494,Rural
+Burgos,0.0,Rural
+Cabugao,16.065733977985804,Rural
+City of Candon,33.0430394582628,Rural
+Caoayan,0.0,Rural
+Cervantes,0.0,Rural
+Galimuyod,0.0,Rural
+Gregorio del Pilar (Concepcion),0.0,Rural
+Lidlidda,0.0,Rural
+Magsingal,17.73029257697713,Rural
+Nagbukel,0.0,Rural
+Narvacan,11.902495998615738,Rural
+Quirino (Angkaki),0.0,Rural
+Salcedo (Baugen),0.0,Rural
+San Emilio,0.0,Rural
+San Esteban,0.0,Rural
+San Ildefonso,12.087912087912088,Rural
+San Juan (Lapog),0.0,Rural
+San Vicente,13.889312395182193,Rural
+Santa,3.588580576307364,Rural
+Santa Catalina,0.0,Rural
+Santa Cruz,4.020209834163323,Rural
+Santa Lucia,0.0,Rural
+Santa Maria,14.077184563087384,Rural
+Santiago,10.163833393251503,Rural
+Santo Domingo,10.109844702317414,Rural
+Sigay,0.0,Rural
+Sinait,2.7886760520040004,Rural
+Sugpon,0.0,Rural
+Suyo,0.0,Rural
+Tagudin,3.384852424286196,Rural
+City of Vigan (Capital),19.86279781218133,Rural
+LA UNION,21.055460435433975,Rural
+Agoo,11.944932452898769,Rural
+Aringay,18.003175863437875,Rural
+Bacnotan,21.76038568982608,Rural
+Bagulin,0.0,Rural
+Balaoan,4.4448300651974515,Rural
+Bangar,0.0,Rural
+Bauang,45.84762074723706,Suburban
+Burgos,0.0,Rural
+Caba,0.0,Rural
+Luna,0.0,Rural
+Naguilian,13.539251566422042,Rural
+Pugo,0.0,Rural
+Rosario,26.742758552042208,Rural
+City of San Fernando (Capital),53.15186246418339,Suburban
+San Gabriel,0.0,Rural
+San Juan,26.81511837460192,Rural
+Santo Tomas,8.336189590167947,Rural
+Santol,0.0,Rural
+Sudipen,0.0,Rural
+Tubao,14.296508516198092,Rural
+PANGASINAN,32.79806145062421,Rural
+Agno,0.0,Rural
+Aguilar,17.481152993348115,Rural
+City of Alaminos,34.88334657987666,Rural
+Alcala,15.103868487772962,Rural
+Anda,15.136709348223743,Rural
+Asingan,12.110152047188251,Rural
+Balungao,29.26943074256766,Rural
+Bani,20.955078607683973,Rural
+Basista,56.72921255871971,Suburban
+Bautista,0.0,Rural
+Bayambang,4.774786646099945,Rural
+Binalonan,53.52240076620198,Suburban
+Binmaley,44.52066619859348,Suburban
+Bolinao,38.37268841019779,Rural
+Bugallon,40.503188282062915,Suburban
+Burgos,25.14632195039791,Rural
+Calasiao,60.35572453742871,Suburban
+City of Dagupan,85.48266801298895,Urban
+Dasol,0.0,Rural
+Infanta,0.0,Rural
+Labrador,18.511058893737644,Rural
+Lingayen (Capital),46.41968661814941,Suburban
+Mabini,10.724276101912753,Rural
+Malasiqui,8.491620892560135,Rural
+Manaoag,30.589782365704515,Rural
+Mangaldan,45.04130405972523,Suburban
+Mangatarem,3.026864843740151,Rural
+Mapandan,33.4542014819486,Rural
+Natividad,7.485157735439059,Rural
+Pozorrubio,26.857043450333872,Rural
+Rosales,23.3889463506768,Rural
+City of San Carlos,29.996981852169174,Rural
+San Fabian,17.964496499977123,Rural
+San Jacinto,28.817839507564653,Rural
+San Manuel,48.16937222457666,Suburban
+San Nicolas,0.0,Rural
+San Quintin,22.510300176574454,Rural
+Santa Barbara,45.04105784980529,Suburban
+Santa Maria,3.2729398012857978,Rural
+Santo Tomas,56.08952816238742,Suburban
+Sison,20.787461773700304,Rural
+Sual,29.4083037016193,Rural
+Tayug,27.80000442076877,Rural
+Umingan,16.96940602537821,Rural
+Urbiztondo,21.045052828626456,Rural
+City of Urdaneta,76.40980238903838,Suburban
+Villasis,45.35028517840946,Suburban
+Laoac,24.396390060947024,Rural
+
+REGION II (CAGAYAN VALLEY),19.47471121163054,Rural
+BATANES,23.333864372577136,Rural
+Basco (Capital),46.17001155826416,Suburban
+Itbayat,0.0,Rural
+Ivana,0.0,Rural
+Mahatao,0.0,Rural
+Sabtang,0.0,Rural
+Uyugan,0.0,Rural
+CAGAYAN,18.252912849804076,Rural
+Abulug,19.043350010121753,Rural
+Alcala,5.753723211042499,Rural
+Allacapan,6.087869671340183,Rural
+Amulung,5.638111888111888,Rural
+Aparri,37.009544008483566,Rural
+Baggao,24.803710414458767,Rural
+Ballesteros,12.102760380422176,Rural
+Buguey,0.0,Rural
+Calayan,0.0,Rural
+Camalaniugan,6.054842288793787,Rural
+Claveria,11.576802507836991,Rural
+Enrile,8.423920446805612,Rural
+Gattaran,3.249312090226585,Rural
+Gonzaga,6.715451055662188,Rural
+Iguig,0.0,Rural
+Lal-lo,8.238770443026286,Rural
+Lasam,5.050333535476046,Rural
+Pamplona,0.0,Rural
+Peñablanca,6.403578528827038,Rural
+Piat,14.118121346502722,Rural
+Rizal,0.0,Rural
+Sanchez-Mira,9.493961168017123,Rural
+Santa Ana,44.06803407307778,Suburban
+Santa Praxedes,0.0,Rural
+Santa Teresita,2.9479384866908496,Rural
+Santo Niño (Faire),0.0,Rural
+Solana,17.059189326700206,Rural
+Tuao,1.5788650930123498,Rural
+Tuguegarao City (Capital),63.405557492755534,Suburban
+ISABELA,22.248961433075042,Rural
+Alicia,31.824457860681697,Rural
+Angadanan,0.0,Rural
+Aurora,7.3782802217307015,Rural
+Benito Soliven,0.0,Rural
+Burgos,26.593701996927805,Rural
+Cabagan,17.156799079726145,Rural
+Cabatuan,10.005001250312578,Rural
+City of Cauayan,42.903565476314995,Suburban
+Cordon,1.1381973879553329,Rural
+Dinapigue,0.0,Rural
+Divilacan,0.0,Rural
+Echague,9.909512498586134,Rural
+Gamu,16.835752732017614,Rural
+City of Ilagan (Capital),24.668495367151653,Rural
+Jones,4.896116419742263,Rural
+Luna,0.0,Rural
+Maconacon,0.0,Rural
+Delfin Albano (Magsaysay),0.0,Rural
+Mallig,3.4680824639841035,Rural
+Naguilian,9.14525867171777,Rural
+Palanan,0.0,Rural
+Quezon,17.31331138809779,Rural
+Quirino,0.0,Rural
+Ramon,59.27498540417175,Suburban
+Reina Mercedes,11.831541218637993,Rural
+Roxas,38.87057822870943,Rural
+San Agustin,0.0,Rural
+San Guillermo,0.0,Rural
+San Isidro,14.284129566632156,Rural
+San Manuel,0.0,Rural
+San Mariano,4.193001130995942,Rural
+San Mateo,22.498237403057168,Rural
+San Pablo,0.0,Rural
+Santa Maria,0.0,Rural
+City of Santiago,78.52941176470588,Suburban
+Santo Tomas,0.0,Rural
+Tumauini,6.509477969551758,Rural
+NUEVA VIZCAYA,16.895575676675406,Rural
+Ambaguio,0.0,Rural
+Aritao,8.102471739697135,Rural
+Bagabag,13.829143082795841,Rural
+Bambang,28.24033411604438,Rural
+Bayombong (Capital),29.180080928611513,Rural
+Diadi,0.0,Rural
+Dupax del Norte,15.068328577864545,Rural
+Dupax del Sur,6.092159819072748,Rural
+Kasibu,0.0,Rural
+Kayapa,0.0,Rural
+Quezon,23.063812097277072,Rural
+Santa Fe,0.0,Rural
+Solano,42.88755801308071,Suburban
+Villaverde,0.0,Rural
+Alfonso Castaneda,0.0,Rural
+QUIRINO,9.918656906803776,Rural
+Aglipay,8.712639187341278,Rural
+Cabarroguis (Capital),13.315241702203801,Rural
+Diffun,14.142098320915474,Rural
+Maddela,12.558923381286178,Rural
+Saguday,0.0,Rural
+Nagtipunan,0.0,Rural
+
+REGION III (CENTRAL LUZON),66.25454872143133,Suburban
+AURORA,19.174973488865323,Rural
+Baler (Capital),68.0940961516501,Suburban
+Casiguran,7.133714801987652,Rural
+Dilasag,0.0,Rural
+Dinalungan,0.0,Rural
+Dingalan,20.639931128488413,Rural
+Dipaculao,0.0,Rural
+Maria Aurora,5.638596022954758,Rural
+San Luis,17.45574034334764,Rural
+BATAAN,59.37239636126289,Suburban
+Abucay,65.75469942304113,Suburban
+Bagac,0.0,Rural
+City of Balanga (Capital),69.54873143712862,Suburban
+Dinalupihan,40.667800252095866,Suburban
+Hermosa,47.89070671332464,Suburban
+Limay,91.7250102207686,Urban
+Mariveles,95.96207607470025,Urban
+Morong,100.0,Urban
+Orani,32.26521850388104,Rural
+Orion,41.123233121061034,Suburban
+Pilar,39.9013819503017,Rural
+Samal,9.500809357213722,Rural
+BULACAN,85.6630150799835,Urban
+Angat,74.80988158556472,Suburban
+Balagtas (Bigaa),93.77807785193072,Urban
+Baliuag,81.94752774974774,Urban
+Bocaue,85.82298531949199,Urban
+Bulacan,86.98173133740397,Urban
+Bustos,89.03742276454358,Urban
+Calumpit,74.90525107410252,Suburban
+Guiguinto,91.55931755058855,Urban
+Hagonoy,76.97380252982435,Suburban
+City of Malolos (Capital),90.2610753132789,Urban
+Marilao,100.0,Urban
+City of Meycauayan,96.27115339451329,Urban
+Norzagaray,97.60847836312324,Urban
+Obando,88.53579645870153,Urban
+Pandi,83.71788672920091,Urban
+Paombong,50.95159436943407,Suburban
+Plaridel,85.68756991051454,Urban
+Pulilan,85.12624499246573,Urban
+San Ildefonso,68.17730073544027,Suburban
+City of San Jose del Monte,87.32197731557977,Urban
+San Miguel,55.6205796377119,Suburban
+San Rafael,70.00591675800459,Suburban
+Santa Maria,98.47457042302119,Urban
+Doña Remedios Trinidad,63.00600223338917,Suburban
+NUEVA ECIJA,41.66121965219334,Suburban
+Aliaga,35.065304208177594,Rural
+Bongabon,18.264785529406485,Rural
+City of Cabanatuan,67.9101810127549,Suburban
+Cabiao,59.21478651790082,Suburban
+Carranglan,24.926921263554927,Rural
+Cuyapo,1.0871800899127317,Rural
+Gabaldon (Bitulok & Sabani),15.829868063042252,Rural
+City of Gapan,71.95530544531911,Suburban
+General Mamerto Natividad,12.597323463699759,Rural
+General Tinio (Papaya),79.98569512740276,Suburban
+Guimba,21.43388717852303,Rural
+Jaen,11.125282551869578,Rural
+Laur,0.0,Rural
+Licab,0.0,Rural
+Llanera,0.0,Rural
+Lupao,11.409717533811007,Rural
+Science City of Muñoz,23.93367177492053,Rural
+Nampicuan,0.0,Rural
+City of Palayan (Capital),26.851464204658132,Rural
+Pantabangan,3.7527941315366937,Rural
+Peñaranda,62.453128389475964,Suburban
+Quezon,11.200860317839647,Rural
+Rizal,32.84232719813095,Rural
+San Antonio,70.56104021189502,Suburban
+San Isidro,87.02824983447363,Urban
+San Jose City,68.62447570518894,Suburban
+San Leonardo,78.68711334189331,Suburban
+Santa Rosa,27.200623934222527,Rural
+Santo Domingo,36.61690565049434,Rural
+Talavera,41.42272060934879,Suburban
+Talugtug,0.0,Rural
+Zaragoza,22.782068186099078,Rural
+PAMPANGA,74.96021879559865,Suburban
+Apalit,96.58757255035849,Urban
+Arayat,80.14495254529767,Urban
+Bacolor,78.09678358923148,Suburban
+Candaba,51.793768881227145,Suburban
+Floridablanca,53.290492983724604,Suburban
+Guagua,77.8793262628692,Suburban
+Lubao,56.0979124159952,Suburban
+Mabalacat City,91.76556042067357,Urban
+Macabebe,55.66403500914896,Suburban
+Magalang,72.16961381131833,Suburban
+Masantol,29.14812898775651,Rural
+Mexico,64.46601269874223,Suburban
+Minalin,66.26911947085573,Suburban
+Porac,82.35110230122699,Urban
+City of San Fernando (Capital),98.85949033738785,Urban
+San Luis,64.36269235367457,Suburban
+San Simon,72.5862593356088,Suburban
+Santa Ana,65.10392121812893,Suburban
+Santa Rita,63.26204650583915,Suburban
+Santo Tomas,100.0,Urban
+Sasmuan (Sexmoan),17.57807126152153,Rural
+CITY OF ANGELES,100.0,Urban
+TARLAC,48.1483994210672,Suburban
+Anao,0.0,Rural
+Bamban,83.66854076156402,Urban
+Camiling,13.048706467091927,Rural
+Capas,92.39055210949915,Urban
+Concepcion,58.5355951351256,Suburban
+Gerona,21.16526432767106,Rural
+La Paz,38.10041768186564,Rural
+Mayantoc,10.908979353928276,Rural
+Moncada,2.868558875499451,Rural
+Paniqui,28.880712212265664,Rural
+Pura,0.0,Rural
+Ramos,22.29992569605315,Rural
+San Clemente,0.0,Rural
+San Manuel,0.0,Rural
+Santa Ignacia,15.300430015883471,Rural
+City of Tarlac (Capital),72.70821332752116,Suburban
+Victoria,17.866512901830763,Rural
+San Jose,39.743091641979504,Rural
+ZAMBALES,41.30754369896015,Suburban
+Botolan,34.42964383643747,Rural
+Cabangan,0.0,Rural
+Candelaria,0.0,Rural
+Castillejos,66.32738735288486,Suburban
+Iba (Capital),70.78318130296324,Suburban
+Masinloc,42.918447064864566,Suburban
+Palauig,38.1510154836115,Rural
+San Antonio,15.748998664886516,Rural
+San Felipe,24.160108656573325,Rural
+San Marcelino,1.8399215249608951,Rural
+San Narciso,0.0,Rural
+Santa Cruz,20.04417362427356,Rural
+Subic,86.65201229537493,Urban
+CITY OF OLONGAPO,98.46994241636159,Urban
+
+REGION IV-A (CALABARZON),70.48911636042685,Suburban
+BATANGAS,47.51276777603805,Suburban
+Agoncillo,4.7773714227257615,Rural
+Alitagtag,0.0,Rural
+Balayan,22.209710883821796,Rural
+Balete,20.98939929328622,Rural
+Batangas City (Capital),71.00618318503743,Suburban
+Bauan,58.208084211453546,Suburban
+Calaca,28.759972985657217,Rural
+Calatagan,6.054258417207378,Rural
+Cuenca,9.236925624396301,Rural
+Ibaan,21.88114242740185,Rural
+Laurel,5.292756306410553,Rural
+Lemery,7.66102204193763,Rural
+Lian,31.266879886282872,Rural
+City of Lipa,80.41219421287047,Urban
+Lobo,6.5151217596229385,Rural
+Mabini,26.857131621377167,Rural
+Malvar,61.043197315894936,Suburban
+Mataasnakahoy,0.0,Rural
+Nasugbu,49.188421083472505,Suburban
+Padre Garcia,24.447958652344127,Rural
+Rosario,37.724382946896036,Rural
+San Jose,53.15645815595733,Suburban
+San Juan,31.241014131921307,Rural
+San Luis,9.396770983080836,Rural
+San Nicolas,0.0,Rural
+San Pascual,40.4034256401339,Suburban
+Santa Teresita,0.0,Rural
+City of Sto. Tomas,88.32906178489702,Urban
+Taal,27.569150667100555,Rural
+Talisay,40.01254379514685,Suburban
+City of Tanauan,75.68837142149988,Suburban
+Taysan,21.16773775718627,Rural
+Tingloy,0.0,Rural
+Tuy,5.552569917668049,Rural
+CAVITE,76.9072844984233,Suburban
+Alfonso,37.438033251273055,Rural
+Amadeo,5.35309419822916,Rural
+City of Bacoor,91.68388188828287,Urban
+Carmona,90.19067158560458,Urban
+City of Cavite,12.874227705266502,Rural
+City of Dasmariñas,83.83055461137951,Urban
+General Emilio Aguinaldo,48.52959579526968,Suburban
+City of General Trias,94.59344893171735,Urban
+City of Imus,80.12133801938026,Urban
+Indang,22.455930945137485,Rural
+Kawit,67.07583577439902,Suburban
+Magallanes,0.0,Rural
+Maragondon,8.646496423919189,Rural
+Mendez (Mendez-Nuñez),0.0,Rural
+Naic,71.31259045761459,Suburban
+Noveleta,51.073768502790585,Suburban
+Rosario,71.90069219453645,Suburban
+Silang,70.90148962941917,Suburban
+City of Tagaytay,54.7005742411813,Suburban
+Tanza,87.12433838700996,Urban
+Ternate,30.045024946254006,Rural
+City of Trece Martires (Capital),98.03565744906248,Urban
+Gen. Mariano Alvarez,70.02835884082513,Suburban
+LAGUNA,79.27746879021984,Suburban
+Alaminos,38.20492454328833,Rural
+Bay,76.94918281682594,Suburban
+City of Biñan,98.02374354808228,Urban
+City of Cabuyao,100.0,Urban
+City of Calamba,93.16657741475825,Urban
+Calauan,71.15163125905146,Suburban
+Cavinti,27.9232693911593,Rural
+Famy,11.655053302364362,Rural
+Kalayaan,100.0,Urban
+Liliw,0.0,Rural
+Los Baños,94.61132350263972,Urban
+Luisiana,0.0,Rural
+Lumban,19.724713888029694,Rural
+Mabitac,0.0,Rural
+Magdalena,5.015099223468508,Rural
+Majayjay,0.0,Rural
+Nagcarlan,29.46227607683532,Rural
+Paete,51.14451793946683,Suburban
+Pagsanjan,53.4076296613802,Suburban
+Pakil,0.0,Rural
+Pangil,52.78110764804603,Suburban
+Pila,48.41704356105689,Suburban
+Rizal,11.395374209033385,Rural
+City of San Pablo,64.86430604034372,Suburban
+City of San Pedro,93.62486618139208,Urban
+Santa Cruz (Capital),76.55655720458996,Suburban
+Santa Maria,0.0,Rural
+City of Santa Rosa,100.0,Urban
+Siniloan,28.33755701976685,Rural
+Victoria,72.5488389237007,Suburban
+QUEZON,30.60402705209389,Rural
+Agdangan,0.0,Rural
+Alabat,0.0,Rural
+Atimonan,34.690320572673514,Rural
+Buenavista,5.7220795892169445,Rural
+Burdeos,25.758805388735595,Rural
+Calauag,10.298152042223121,Rural
+Candelaria,79.44604405248003,Suburban
+Catanauan,15.104739388607873,Rural
+Dolores,20.209755797502616,Rural
+General Luna,0.0,Rural
+General Nakar,17.311906501095688,Rural
+Guinayangan,12.925417186967875,Rural
+Gumaca,17.97142142281282,Rural
+Infanta,32.19095371853096,Rural
+Jomalig,0.0,Rural
+Lopez,20.969394762141206,Rural
+Lucban,43.828520841573905,Suburban
+Macalelon,1.3766842413591096,Rural
+Mauban,46.586288881698344,Suburban
+Mulanay,0.0,Rural
+Padre Burgos,7.259025885558583,Rural
+Pagbilao,61.01778907242694,Suburban
+Panukulan,0.0,Rural
+Patnanungan,43.15705554079192,Suburban
+Perez,0.0,Rural
+Pitogo,4.267918238441968,Rural
+Plaridel,0.0,Rural
+Polillo,31.562617525385484,Rural
+Quezon,0.0,Rural
+Real,20.86974507471948,Rural
+Sampaloc,0.0,Rural
+San Andres,70.57457147434187,Suburban
+San Antonio,0.0,Rural
+San Francisco (Aurora),30.313863793742048,Rural
+San Narciso,10.9287476986956,Rural
+Sariaya,43.5762473126251,Suburban
+Tagkawayan,8.262503934966576,Rural
+City of Tayabas,40.63714960322392,Suburban
+Tiaong,55.86599538888628,Suburban
+Unisan,0.0,Rural
+CITY OF LUCENA (CAPITAL),94.04031205633075,Urban
+RIZAL,94.6448545903284,Urban
+Angono,92.80656581911812,Urban
+City of Antipolo (Capital),99.87716912009141,Urban
+Baras,76.66967148578797,Suburban
+Binangonan,88.24574101412169,Urban
+Cainta,99.57048069550822,Urban
+Cardona,46.883912011646686,Suburban
+Jala-Jala,32.05162124819943,Rural
+Rodriguez (Montalban),98.10430810399275,Urban
+Morong,81.59126365054603,Urban
+Pililla,90.29006779897952,Urban
+San Mateo,100.0,Urban
+Tanay,81.50265385167121,Urban
+Taytay,100.0,Urban
+Teresa,92.30553127731302,Urban
+
+MIMAROPA REGION,35.24858466225479,Rural
+MARINDUQUE,5.195082083718286,Rural
+Boac (Capital),9.404186233262923,Rural
+Buenavista,13.086049994240295,Rural
+Gasan,0.0,Rural
+Mogpog,0.0,Rural
+Santa Cruz,1.1263073209975865,Rural
+Torrijos,9.896311851949074,Rural
+OCCIDENTAL MINDORO,47.43239796403949,Suburban
+Abra de Ilog,19.237548328405733,Rural
+Calintaan,40.61278569062603,Suburban
+Looc,0.0,Rural
+Lubang,0.0,Rural
+Magsaysay,24.34430558000352,Rural
+Mamburao (Capital),70.99046221570066,Suburban
+Paluan,0.0,Rural
+Rizal,29.117712533082692,Rural
+Sablayan,53.7711397654377,Suburban
+San Jose,71.42698689215553,Suburban
+Santa Cruz,36.72112596364665,Rural
+ORIENTAL MINDORO,24.441095229864622,Rural
+Baco,0.0,Rural
+Bansud,29.753228187762183,Rural
+Bongabong,8.760214620711158,Rural
+Bulalacao (San Pedro),45.94960104584592,Suburban
+City of Calapan (Capital),36.79982988764353,Rural
+Gloria,5.139020912547529,Rural
+Mansalay,50.70710829921846,Suburban
+Naujan,4.453082938669732,Rural
+Pinamalayan,35.12496819092086,Rural
+Pola,0.0,Rural
+Puerto Galera,57.05774409570792,Suburban
+Roxas,44.8639738993016,Suburban
+San Teodoro,0.0,Rural
+Socorro,5.432247204520861,Rural
+Victoria,12.906564446574029,Rural
+PALAWAN,40.36041098602162,Suburban
+Aborlan,6.521065675340769,Rural
+Agutaya,0.0,Rural
+Araceli,0.0,Rural
+Balabac,53.81992616455429,Suburban
+Bataraza,45.61382974988003,Suburban
+Brooke's Point,41.23307295186096,Suburban
+Busuanga,20.654253035093884,Rural
+Cagayancillo,0.0,Rural
+Coron,64.22898792802368,Suburban
+Cuyo,32.18102090340159,Rural
+Dumaran,0.0,Rural
+El Nido (Bacuit),61.2706460173486,Suburban
+Linapacan,0.0,Rural
+Magsaysay,0.0,Rural
+Narra,61.54615897778007,Suburban
+Quezon,50.41894520778764,Suburban
+Roxas,32.27048144318051,Rural
+San Vicente,38.65162503357508,Rural
+Taytay,35.915400026392504,Rural
+Kalayaan,0.0,Rural
+Culion,7.276095291431525,Rural
+Rizal (Marcos),65.8114027278231,Suburban
+Sofronio Española,35.66923241394056,Rural
+CITY OF PUERTO PRINCESA (CAPITAL),83.96438701441649,Urban
+ROMBLON,5.610951987960581,Rural
+Alcantara,0.0,Rural
+Banton,0.0,Rural
+Cajidiocan,0.0,Rural
+Calatrava,0.0,Rural
+Concepcion,0.0,Rural
+Corcuera,0.0,Rural
+Looc,0.0,Rural
+Magdiwang,0.0,Rural
+Odiongan,15.824608392175959,Rural
+Romblon (Capital),10.038467228880013,Rural
+San Agustin,0.0,Rural
+San Andres,0.0,Rural
+San Fernando,22.618013321749203,Rural
+San Jose,0.0,Rural
+Santa Fe,0.0,Rural
+Ferrol,0.0,Rural
+Santa Maria (Imelda),0.0,Rural
+
+REGION V (BICOL REGION),23.796953880731614,Rural
+ALBAY,30.496345565215364,Rural
+Bacacay,20.98503138580396,Rural
+Camalig,14.052913578190502,Rural
+Daraga (Locsin),44.92915985152323,Suburban
+Guinobatan,23.388431678828713,Rural
+Jovellar,0.0,Rural
+City of Legazpi (Capital),69.1547393489331,Suburban
+Libon,9.685239700025308,Rural
+City of Ligao,21.380910445739058,Rural
+Malilipot,26.203588124434003,Rural
+Malinao,6.576643105812849,Rural
+Manito,10.033636572127513,Rural
+Oas,0.0,Rural
+Pio Duran,11.306297126553902,Rural
+Polangui,23.917870278998834,Rural
+Rapu-Rapu,16.6385438853697,Rural
+Santo Domingo (Libog),8.595260161525221,Rural
+City of Tabaco,45.55941004958818,Suburban
+Tiwi,34.49082276238396,Rural
+CAMARINES NORTE,24.36497437664662,Rural
+Basud,0.0,Rural
+Capalonga,0.0,Rural
+Daet (Capital),64.07520143240824,Suburban
+San Lorenzo Ruiz (Imelda),0.0,Rural
+Jose Panganiban,22.68543244007414,Rural
+Labo,15.006636459334525,Rural
+Mercedes,13.595619329887592,Rural
+Paracale,28.394631050865478,Rural
+San Vicente,0.0,Rural
+Santa Elena,36.3177458583819,Rural
+Talisay,0.0,Rural
+Vinzons,21.561110884547936,Rural
+CAMARINES SUR,29.7585294578396,Rural
+Baao,19.189176003772786,Rural
+Balatan,34.047409436238546,Rural
+Bato,12.867414437733679,Rural
+Bombon,0.0,Rural
+Buhi,15.18092145721103,Rural
+Bula,17.186880494374034,Rural
+Cabusao,26.50464766059095,Rural
+Calabanga,25.038805030031718,Rural
+Camaligan,32.493209777919795,Rural
+Canaman,16.32923629332965,Rural
+Caramoan,8.558227652335294,Rural
+Del Gallego,0.0,Rural
+Gainza,0.0,Rural
+Garchitorena,28.20356026634053,Rural
+Goa,11.034357134850353,Rural
+City of Iriga,54.31209974051391,Suburban
+Lagonoy,1.8813696794442292,Rural
+Libmanan,14.555640122484379,Rural
+Lupi,0.0,Rural
+Magarao,53.743175529130205,Suburban
+Milaor,9.9078408856697,Rural
+Minalabac,12.70076508401104,Rural
+Nabua,33.401549312059196,Rural
+City of Naga,94.33953243773007,Urban
+Ocampo,8.697354766706479,Rural
+Pamplona,43.032568072610786,Suburban
+Pasacao,54.692205533005364,Suburban
+Pili (Capital),74.83265454252188,Suburban
+Presentacion (Parubcan),23.168518436545526,Rural
+Ragay,0.0,Rural
+Sagñay,0.0,Rural
+San Fernando,22.127582457412107,Rural
+San Jose,0.0,Rural
+Sipocot,18.809136117590107,Rural
+Siruma,0.0,Rural
+Tigaon,20.10607362368647,Rural
+Tinambac,7.831737346101231,Rural
+CATANDUANES,9.291265599770487,Rural
+Bagamanoc,0.0,Rural
+Baras,0.0,Rural
+Bato,2.9244068420084606,Rural
+Caramoran,0.0,Rural
+Gigmoto,0.0,Rural
+Pandan,0.0,Rural
+Panganiban (Payo),0.0,Rural
+San Andres (Calolbon),0.3300415800415801,Rural
+San Miguel,0.0,Rural
+Viga,0.0,Rural
+Virac (Capital),32.01515943544172,Rural
+MASBATE,13.186529067464683,Rural
+Aroroy,21.319509682969066,Rural
+Baleno,0.0,Rural
+Balud,3.5313161499190637,Rural
+Batuan,0.0,Rural
+Cataingan,14.240562590127018,Rural
+Cawayan,4.2575615390168196,Rural
+Claveria,0.0,Rural
+Dimasalang,0.0,Rural
+Esperanza,0.0,Rural
+Mandaon,11.96001994469879,Rural
+City of Masbate (Capital),61.61573639999235,Suburban
+Milagros,8.747262678577636,Rural
+Mobo,8.666682997329938,Rural
+Monreal,23.966777936735017,Rural
+Palanas,0.0,Rural
+Pio V. Corpuz (Limbuhan),0.0,Rural
+Placer,9.162229321973731,Rural
+San Fernando,0.0,Rural
+San Jacinto,0.0,Rural
+San Pascual,0.0,Rural
+Uson,0.0,Rural
+SORSOGON,13.76869746758301,Rural
+Barcelona,0.0,Rural
+Bulan,12.410875558513167,Rural
+Bulusan,0.0,Rural
+Casiguran,7.786079433739677,Rural
+Castilla,10.723179681701987,Rural
+Donsol,0.0,Rural
+Gubat,2.982054599130925,Rural
+Irosin,13.231646616160763,Rural
+Juban,0.0,Rural
+Magallanes,0.0,Rural
+Matnog,0.0,Rural
+Pilar,0.0,Rural
+Prieto Diaz,0.0,Rural
+Santa Magdalena,0.0,Rural
+City of Sorsogon (Capital),45.065491640007245,Suburban
+
+REGION VI (WESTERN VISAYAS),42.15363627369552,Suburban
+AKLAN,24.251350582883138,Rural
+Altavas,0.0,Rural
+Balete,28.152210036556998,Rural
+Banga,4.62820576417481,Rural
+Batan,0.0,Rural
+Buruanga,0.0,Rural
+Ibajay,5.807424948437858,Rural
+Kalibo (Capital),80.78360092901141,Urban
+Lezo,11.445744612826907,Rural
+Libacao,0.0,Rural
+Madalag,0.0,Rural
+Makato,0.0,Rural
+Malay,76.61001714466434,Suburban
+Malinao,0.0,Rural
+Nabas,5.220023626698169,Rural
+New Washington,12.726514440621417,Rural
+Numancia,21.976297873532623,Rural
+Tangalan,0.0,Rural
+ANTIQUE,11.141092444377739,Rural
+Anini-Y,0.0,Rural
+Barbaza,6.528532899524809,Rural
+Belison,0.0,Rural
+Bugasong,12.729265197831353,Rural
+Caluya,34.96710188136116,Rural
+Culasi,8.562952308176383,Rural
+Tobias Fornier (Dao),9.341731724627396,Rural
+Hamtic,0.0,Rural
+Laua-an,0.0,Rural
+Libertad,0.0,Rural
+Pandan,1.5765327401640483,Rural
+Patnongon,16.092253906963396,Rural
+San Jose (Capital),41.96039299969297,Suburban
+San Remigio,0.0,Rural
+Sebaste,0.0,Rural
+Sibalom,5.9342346435229425,Rural
+Tibiao,13.667560882137755,Rural
+Valderrama,0.0,Rural
+CAPIZ,21.860309683061846,Rural
+Cuartero,0.0,Rural
+Dao,0.0,Rural
+Dumalag,8.478968702239351,Rural
+Dumarao,14.172019553185471,Rural
+Ivisan,0.0,Rural
+Jamindan,0.0,Rural
+Ma-ayon,0.0,Rural
+Mambusao,14.354878348488572,Rural
+Panay,7.036203722642667,Rural
+Panitan,12.167273581581112,Rural
+Pilar,12.779193205944797,Rural
+Pontevedra,14.966314731020613,Rural
+President Roxas,20.70101378361956,Rural
+City of Roxas (Capital),70.7187158378511,Suburban
+Sapi-an,19.51530134472038,Rural
+Sigma,0.0,Rural
+Tapaz,0.0,Rural
+GUIMARAS,14.246015268150893,Rural
+Buenavista,7.389553677763285,Rural
+Jordan (Capital),33.93317494818784,Rural
+Nueva Valencia,8.48705898856702,Rural
+San Lorenzo,19.681429153647603,Rural
+Sibunag,0.0,Rural
+ILOILO,13.66217343056359,Rural
+Ajuy,6.0304515356701955,Rural
+Alimodian,20.885151805045062,Rural
+Anilao,0.0,Rural
+Badiangan,0.0,Rural
+Balasan,21.15845311430527,Rural
+Banate,11.418384467881113,Rural
+Barotac Nuevo,9.579551705170516,Rural
+Barotac Viejo,25.614020652486936,Rural
+Batad,0.0,Rural
+Bingawan,0.0,Rural
+Cabatuan,2.390770741286205,Rural
+Calinog,3.1995290598698554,Rural
+Carles,19.57817641147074,Rural
+Concepcion,17.543073510631146,Rural
+Dingle,11.25421516371152,Rural
+Dueñas,0.0,Rural
+Dumangas,9.366838522848752,Rural
+Estancia,28.582706766917294,Rural
+Guimbal,22.285991662383644,Rural
+Igbaras,2.742491536478554,Rural
+Janiuay,8.455364896834666,Rural
+Lambunao,3.6634004628489834,Rural
+Leganes,23.369330453563713,Rural
+Lemery,0.0,Rural
+Leon,18.39969224850933,Rural
+Maasin,0.0,Rural
+Miagao,5.597885928209646,Rural
+Mina,0.0,Rural
+New Lucena,0.0,Rural
+Oton,42.51286684465379,Suburban
+City of Passi,10.72204156492973,Rural
+Pavia,81.31215548104791,Urban
+Pototan,8.173899716467854,Rural
+San Dionisio,7.5189510346240525,Rural
+San Enrique,5.060821977188372,Rural
+San Joaquin,0.0,Rural
+San Miguel,19.259505229951852,Rural
+San Rafael,15.689800505760045,Rural
+Santa Barbara,9.77081176992459,Rural
+Sara,7.752987901971192,Rural
+Tigbauan,10.543336654149742,Rural
+Tubungan,0.0,Rural
+Zarraga,6.478666910822193,Rural
+CITY OF ILOILO (CAPITAL),79.76338756976222,Suburban
+NEGROS OCCIDENTAL,64.7447441494496,Suburban
+City of Bago,84.21003085612678,Urban
+Binalbagan,74.1159830268741,Suburban
+City of Cadiz,93.47184377838329,Urban
+Calatrava,14.074388175430094,Rural
+Candoni,15.637236326891498,Rural
+Cauayan,62.66961651917404,Suburban
+Enrique B. Magalona (Saravia),11.350132213407994,Rural
+City of Escalante,65.10779022244407,Suburban
+City of Himamaylan,82.11286992429456,Urban
+Hinigaran,43.822335196661754,Suburban
+Hinoba-an (Asia),53.55130206194036,Suburban
+Ilog,40.0551332386601,Suburban
+Isabela,29.116808233616464,Rural
+City of Kabankalan,83.57126444819627,Urban
+City of La Carlota,81.03774150966039,Urban
+La Castellana,70.4989181301263,Suburban
+Manapla,70.05791260461486,Suburban
+Moises Padilla (Magallon),42.6326446090838,Suburban
+Murcia,52.70063464914255,Suburban
+Pontevedra,37.284870279989725,Rural
+Pulupandan,7.258359066308065,Rural
+City of Sagay,66.47346434376134,Suburban
+City of San Carlos,93.48812664907652,Urban
+San Enrique,30.256028456797786,Rural
+City of Silay,97.35894173730438,Urban
+City of Sipalay,51.38306095406361,Suburban
+City of Talisay,67.74095804754427,Suburban
+Toboso,66.90988606283807,Suburban
+Valladolid,9.045904590459045,Rural
+City of Victorias,68.06139776473069,Suburban
+Salvador Benedicto,26.253621573434366,Rural
+CITY OF BACOLOD (CAPITAL),98.0735140641463,Urban
+
+REGION VII (CENTRAL VISAYAS),51.925825675563985,Suburban
+BOHOL,17.618725566204247,Rural
+Alburquerque,0.0,Rural
+Alicia,0.0,Rural
+Anda,20.626617167285406,Rural
+Antequera,0.0,Rural
+Baclayon,0.0,Rural
+Balilihan,0.0,Rural
+Batuan,14.322860238353197,Rural
+Bilar,9.366897147796024,Rural
+Buenavista,0.0,Rural
+Calape,8.449469451918135,Rural
+Candijay,0.0,Rural
+Carmen,13.766745949462301,Rural
+Catigbian,9.140936777987818,Rural
+Clarin,0.0,Rural
+Corella,0.0,Rural
+Cortes,12.816179677278674,Rural
+Dagohoy,0.0,Rural
+Danao,0.0,Rural
+Dauis,60.70067819858264,Suburban
+Dimiao,0.0,Rural
+Duero,0.0,Rural
+Garcia Hernandez,0.0,Rural
+Guindulman,6.922941590429275,Rural
+Inabanga,0.0,Rural
+Jagna,22.390600580486716,Rural
+Getafe,0.0,Rural
+Lila,0.0,Rural
+Loay,0.0,Rural
+Loboc,0.0,Rural
+Loon,2.5257778581765558,Rural
+Mabini,0.0,Rural
+Maribojoc,8.927766254847146,Rural
+Panglao,72.03745073922538,Suburban
+Pilar,0.0,Rural
+Pres. Carlos P. Garcia (Pitogo),0.0,Rural
+Sagbayan (Borja),0.0,Rural
+San Isidro,0.0,Rural
+San Miguel,0.0,Rural
+Sevilla,0.0,Rural
+Sierra Bullones,0.0,Rural
+Sikatuna,0.0,Rural
+City of Tagbilaran (Capital),97.93000304831581,Urban
+Talibon,32.154282186552926,Rural
+Trinidad,10.757709501978987,Rural
+Tubigon,24.00075178549054,Rural
+Ubay,11.187178327363414,Rural
+Valencia,0.0,Rural
+Bien Unido,0.0,Rural
+CEBU,50.36126643982577,Suburban
+Alcantara,0.0,Rural
+Alcoy,0.0,Rural
+Alegria,30.320062451209996,Rural
+Aloguinsan,26.179423199675046,Rural
+Argao,9.277757171908373,Rural
+Asturias,12.098128057476035,Rural
+Badian,0.0,Rural
+Balamban,55.545745038681474,Suburban
+Bantayan,42.79337252310225,Suburban
+Barili,6.294988539924426,Rural
+City of Bogo,50.20873890195461,Suburban
+Boljoon,0.0,Rural
+Borbon,25.66318380600728,Rural
+City of Carcar,94.46989073160722,Urban
+Carmen,38.0002418087293,Rural
+Catmon,0.0,Rural
+Compostela,58.62297311808713,Suburban
+Consolacion,83.97427235629543,Urban
+Cordova,69.86472129754232,Suburban
+Daanbantayan,53.1710551645954,Suburban
+Dalaguete,18.676604643680626,Rural
+Danao City,64.65925883278638,Suburban
+Dumanjug,8.223371322830015,Rural
+Ginatilan,0.0,Rural
+Liloan,92.19175310221479,Urban
+Madridejos,12.604962059040414,Rural
+Malabuyoc,0.0,Rural
+Medellin,45.118698095797335,Suburban
+Minglanilla,89.45179534045906,Urban
+Moalboal,26.47711887354454,Rural
+City of Naga,71.0430682364248,Suburban
+Oslob,15.192728266812466,Rural
+Pilar,0.0,Rural
+Pinamungajan,38.7137133806285,Rural
+Poro,0.0,Rural
+Ronda,0.0,Rural
+Samboan,0.0,Rural
+San Fernando,54.23958794860434,Suburban
+San Francisco,51.07704774123844,Suburban
+San Remigio,8.729313701630566,Rural
+Santa Fe,25.911635867830928,Rural
+Santander,0.0,Rural
+Sibonga,24.15206648697215,Rural
+Sogod,0.0,Rural
+Tabogon,0.0,Rural
+Tabuelan,18.735946310582214,Rural
+City of Talisay,96.64281804081385,Urban
+City of Toledo,78.37965598078277,Suburban
+Tuburan,3.5119632666832925,Rural
+Tudela,0.0,Rural
+CITY OF CEBU (CAPITAL),94.19458621880604,Urban
+CITY OF LAPU-LAPU (OPON),95.72933497319154,Urban
+CITY OF MANDAUE,100.0,Urban
+NEGROS ORIENTAL,36.43207559019952,Rural
+Amlan (Ayuquitan),5.6912162426998005,Rural
+Ayungon,0.0,Rural
+Bacong,24.932657072827432,Rural
+City of Bais,50.853327324264384,Suburban
+Basay,37.68882969401703,Rural
+City of Bayawan (Tulong),63.64880608080035,Suburban
+Bindoy (Payabon),24.35744765307135,Rural
+City of Canlaon,44.37625378259835,Suburban
+Dauin,25.861149976680657,Rural
+City of Dumaguete (Capital),85.76169064077612,Urban
+City of Guihulngan,32.5455891521197,Rural
+Jimalalud,0.0,Rural
+La Libertad,0.0,Rural
+Mabinay,14.645642713343701,Rural
+Manjuyod,10.74131118998192,Rural
+Pamplona,18.00025122472051,Rural
+San Jose,10.293313900528329,Rural
+Santa Catalina,39.760777280293155,Rural
+Siaton,30.063070219782865,Rural
+Sibulan,75.84508027291236,Suburban
+City of Tanjay,38.75874252801239,Rural
+Tayasan,0.0,Rural
+Valencia (Luzurriaga),9.309890790798544,Rural
+Vallehermoso,14.230363667573997,Rural
+Zamboanguita,47.55656261625351,Suburban
+SIQUIJOR,5.356158421587117,Rural
+Enrique Villanueva,0.0,Rural
+Larena,19.814584198145845,Rural
+Lazi,0.0,Rural
+Maria,0.0,Rural
+San Juan,7.351952575933509,Rural
+Siquijor (Capital),5.087324917862701,Rural
+
+REGION VIII (EASTERN VISAYAS),14.65693896176726,Rural
+BILIRAN,15.49422236102436,Rural
+Almeria,0.0,Rural
+Biliran,0.0,Rural
+Cabucgayan,20.425215857394857,Rural
+Caibiran,0.0,Rural
+Culaba,0.0,Rural
+Kawayan,0.0,Rural
+Maripipi,0.0,Rural
+Naval (Capital),40.1859521886332,Suburban
+EASTERN SAMAR,2.2778141032089327,Rural
+Arteche,0.0,Rural
+Balangiga,0.0,Rural
+Balangkayan,0.0,Rural
+City of Borongan (Capital),13.715762704798431,Rural
+Can-avid,0.0,Rural
+Dolores,0.0,Rural
+General Macarthur,0.0,Rural
+Giporlos,0.0,Rural
+Guiuan,1.8721538202057681,Rural
+Hernani,0.0,Rural
+Jipapad,0.0,Rural
+Lawaan,0.0,Rural
+Llorente,0.0,Rural
+Maslog,0.0,Rural
+Maydolong,0.0,Rural
+Mercedes,0.0,Rural
+Oras,0.0,Rural
+Quinapondan,0.0,Rural
+Salcedo,0.0,Rural
+San Julian,0.0,Rural
+San Policarpo,0.0,Rural
+Sulat,0.0,Rural
+Taft,0.0,Rural
+LEYTE,14.799192051988719,Rural
+Abuyog,1.7789466806063774,Rural
+Alangalang,0.0,Rural
+Albuera,47.568450297978835,Suburban
+Babatngon,17.77399993061097,Rural
+Barugo,0.0,Rural
+Bato,7.884690299961044,Rural
+City of Baybay,4.110042200128746,Rural
+Burauen,1.249262059378035,Rural
+Calubian,0.0,Rural
+Capoocan,0.0,Rural
+Carigara,14.002122365339579,Rural
+Dagami,0.0,Rural
+Dulag,0.822583278902678,Rural
+Hilongos,12.927426605077969,Rural
+Hindang,0.0,Rural
+Inopacan,0.0,Rural
+Isabel,52.37382698103931,Suburban
+Jaro,0.0,Rural
+Javier (Bugho),0.0,Rural
+Julita,0.0,Rural
+Kananga,21.09354060573573,Rural
+La Paz,0.0,Rural
+Leyte,13.951531054286209,Rural
+Macarthur,0.0,Rural
+Mahaplag,0.0,Rural
+Matag-ob,0.0,Rural
+Matalom,0.0,Rural
+Mayorga,0.0,Rural
+Merida,13.121555710394627,Rural
+Ormoc City,47.11426072953013,Suburban
+Palo,33.936467531785915,Rural
+Palompon,8.847083840653028,Rural
+Pastrana,0.0,Rural
+San Isidro,0.0,Rural
+San Miguel,0.0,Rural
+Santa Fe,0.0,Rural
+Tabango,36.214125428132746,Rural
+Tabontabon,0.0,Rural
+Tanauan,6.521625620050473,Rural
+Tolosa,26.72397141201468,Rural
+Tunga,17.75078369905956,Rural
+Villaba,0.0,Rural
+CITY OF TACLOBAN (CAPITAL),55.960155787852194,Suburban
+NORTHERN SAMAR,11.241328815086689,Rural
+Allen,19.2722371967655,Rural
+Biri,0.0,Rural
+Bobon,7.598983207518102,Rural
+Capul,0.0,Rural
+Catarman (Capital),42.92544876837729,Suburban
+Catubig,0.0,Rural
+Gamay,0.0,Rural
+Laoang,7.77302951804247,Rural
+Lapinig,0.0,Rural
+Las Navas,0.0,Rural
+Lavezares,6.042871725076557,Rural
+Mapanas,0.0,Rural
+Mondragon,13.594108414825545,Rural
+Palapag,0.0,Rural
+Pambujan,0.0,Rural
+Rosario,0.0,Rural
+San Antonio,0.0,Rural
+San Isidro,7.966411885025298,Rural
+San Jose,9.239839011393912,Rural
+San Roque,23.545947393079448,Rural
+San Vicente,0.0,Rural
+Silvino Lobos,0.0,Rural
+Victoria,0.0,Rural
+Lope de Vega,0.0,Rural
+SAMAR (WESTERN SAMAR),14.950143913825686,Rural
+Almagro,0.0,Rural
+Basey,1.9793596189468114,Rural
+City of Calbayog,37.30584082156611,Rural
+Calbiga,0.0,Rural
+City of Catbalogan (Capital),43.71758737316798,Suburban
+Daram,0.0,Rural
+Gandara,0.0,Rural
+Hinabangan,0.0,Rural
+Jiabong,0.0,Rural
+Marabut,0.0,Rural
+Matuguinao,0.0,Rural
+Motiong,0.0,Rural
+Pinabacdao,0.0,Rural
+San Jose de Buan,0.0,Rural
+San Sebastian,0.0,Rural
+Santa Margarita,0.0,Rural
+Santa Rita,0.0,Rural
+Santo Niño,0.0,Rural
+Talalora,0.0,Rural
+Tarangnan,0.0,Rural
+Villareal,0.0,Rural
+Paranas (Wright),3.644900228578489,Rural
+Zumarraga,0.0,Rural
+Tagapul-an,0.0,Rural
+San Jorge,0.0,Rural
+Pagsanghan,0.0,Rural
+SOUTHERN LEYTE,7.792389186471217,Rural
+Anahawan,0.0,Rural
+Bontoc,0.0,Rural
+Hinunangan,2.1887543311948954,Rural
+Hinundayan,0.0,Rural
+Libagon,0.0,Rural
+Liloan,0.0,Rural
+City of Maasin (Capital),27.158474944537197,Rural
+Macrohon,0.0,Rural
+Malitbog,0.0,Rural
+Padre Burgos,0.0,Rural
+Pintuyan,0.0,Rural
+Saint Bernard,0.0,Rural
+San Francisco,0.0,Rural
+San Juan (Cabalian),0.0,Rural
+San Ricardo,0.0,Rural
+Silago,0.0,Rural
+Sogod,19.109606325706597,Rural
+Tomas Oppus,0.0,Rural
+Limasawa,0.0,Rural
+
+REGION IX (ZAMBOANGA PENINSULA),38.43152604928919,Rural
+ZAMBOANGA DEL NORTE,16.844828656123653,Rural
+City of Dapitan,4.156005727565081,Rural
+City of Dipolog (Capital),88.22796997270905,Urban
+Katipunan,0.0,Rural
+La Libertad,0.0,Rural
+Labason,0.0,Rural
+Liloy,12.401392935825456,Rural
+Manukan,11.266841976848212,Rural
+Mutia,0.0,Rural
+Piñan (New Piñan),15.711389149893677,Rural
+Polanco,0.0,Rural
+Pres. Manuel A. Roxas,3.6200826572784326,Rural
+Rizal,11.274249269200107,Rural
+Salug,0.0,Rural
+Sergio Osmeña Sr.,0.0,Rural
+Siayan,0.0,Rural
+Sibuco,0.0,Rural
+Sibutad,0.0,Rural
+Sindangan,2.632945975065415,Rural
+Siocon,11.750886159426264,Rural
+Sirawai,28.4407791290954,Rural
+Tampilisan,19.590761750405186,Rural
+Jose Dalman (Ponot),17.471694193414354,Rural
+Gutalac,5.868661679135494,Rural
+Baliguian,0.0,Rural
+Godod,0.0,Rural
+Bacungan (Leon T. Postigo),0.0,Rural
+Kalawit,25.35276331261549,Rural
+ZAMBOANGA DEL SUR,26.003932736125968,Rural
+Aurora,18.999905651476553,Rural
+Bayog,0.0,Rural
+Dimataling,0.0,Rural
+Dinas,0.0,Rural
+Dumalinao,10.453109815354713,Rural
+Dumingag,0.0,Rural
+Kumalarang,24.461481054309846,Rural
+Labangan,9.601915864624283,Rural
+Lapuyan,20.770090492843494,Rural
+Mahayag,16.243938828795226,Rural
+Margosatubig,41.02431453698914,Suburban
+Midsalip,7.674052979739551,Rural
+Molave,45.286036883703424,Suburban
+City of Pagadian (Capital),73.39630889704065,Suburban
+Ramon Magsaysay (Liargo),0.0,Rural
+San Miguel,0.0,Rural
+San Pablo,0.0,Rural
+Tabina,22.483873474780445,Rural
+Tambulig,0.0,Rural
+Tukuran,18.221028070423532,Rural
+Lakewood,24.398163180110394,Rural
+Josefina,0.0,Rural
+Pitogo,30.41139700537869,Rural
+Sominot (Don Mariano Marcos),0.0,Rural
+Vincenzo A. Sagun,20.356510542411073,Rural
+Guipos,25.13110681755451,Rural
+Tigbao,0.0,Rural
+CITY OF ZAMBOANGA,89.0195183548669,Urban
+ZAMBOANGA SIBUGAY,17.5206019347904,Rural
+Alicia,0.0,Rural
+Buug,20.481457384515288,Rural
+Diplahan,16.114776737762774,Rural
+Imelda,19.965411222136815,Rural
+Ipil (Capital),52.105681144506214,Suburban
+Kabasalan,9.026533572220801,Rural
+Mabuhay,0.0,Rural
+Malangas,22.88114421335332,Rural
+Naga,0.0,Rural
+Olutanga,24.098548311566677,Rural
+Payao,16.588464179446095,Rural
+Roseller Lim,3.823293172690763,Rural
+Siay,0.0,Rural
+Talusan,33.419438165967065,Rural
+Titay,16.29625513945994,Rural
+Tungawan,13.035249585994796,Rural
+CITY OF ISABELA [BASILAN],40.26491996410465,Suburban
+
+REGION X (NORTHERN MINDANAO),50.33557193961576,Suburban
+BUKIDNON,54.255411637388505,Suburban
+Baungon,44.91390692786506,Suburban
+Damulog,37.955851686079036,Rural
+Dangcagan,26.41509433962264,Rural
+Don Carlos,34.62821012515699,Rural
+Impasug-ong,62.78707090210348,Suburban
+Kadingilan,18.701645175633615,Rural
+Kalilangan,44.693555397954746,Suburban
+Kibawe,19.013294507959998,Rural
+Kitaotao,14.478771655885195,Rural
+Lantapan,71.32506745081396,Suburban
+Libona,44.378637802512,Suburban
+City of Malaybalay (Capital),73.26649607785562,Suburban
+Malitbog,25.58243895142291,Rural
+Manolo Fortich,73.67932862190813,Suburban
+Maramag,73.89304941224272,Suburban
+Pangantucan,42.610463061152345,Suburban
+Quezon,47.69028679851127,Suburban
+San Fernando,45.080498056943455,Suburban
+Sumilao,78.5716704480038,Suburban
+Talakag,13.78737325872746,Rural
+City of Valencia,80.31919315064697,Urban
+Cabanglasan,19.327013173124623,Rural
+CAMIGUIN,25.346952848892336,Rural
+Catarman,0.0,Rural
+Guinsiliban,0.0,Rural
+Mahinog,20.70520705207052,Rural
+Mambajao (Capital),49.87102740059376,Suburban
+Sagay,0.0,Rural
+LANAO DEL NORTE,16.914740863906864,Rural
+Bacolod,26.70414905404851,Rural
+Baloi,44.31753450668225,Suburban
+Baroy,0.0,Rural
+Kapatagan,18.48619967716674,Rural
+Sultan Naga Dimaporo (Karomatan),13.435899119926443,Rural
+Kauswagan,0.0,Rural
+Kolambugan,6.867150185742084,Rural
+Lala,36.59925093632958,Rural
+Linamon,34.63726550378485,Rural
+Magsaysay,0.0,Rural
+Maigo,14.62055962634443,Rural
+Matungao,0.0,Rural
+Munai,0.0,Rural
+Nunungan,0.0,Rural
+Pantao Ragat,0.0,Rural
+Poona Piagapo,0.0,Rural
+Salvador,18.807410867196015,Rural
+Sapad,23.14790632889353,Rural
+Tagoloan,0.0,Rural
+Tangcal,0.0,Rural
+Tubod (Capital),29.411059852615185,Rural
+Pantar,0.0,Rural
+CITY OF ILIGAN,92.39221734161353,Urban
+MISAMIS OCCIDENTAL,22.731977717050604,Rural
+Aloran,0.0,Rural
+Baliangao,0.0,Rural
+Bonifacio,0.0,Rural
+Calamba,41.41731605459164,Suburban
+Clarin,23.854050208354508,Rural
+Concepcion,0.0,Rural
+Jimenez,14.7255180047736,Rural
+Lopez Jaena,0.0,Rural
+City of Oroquieta (Capital),32.84878494073388,Rural
+City of Ozamiz,55.501874100360574,Suburban
+Panaon,0.0,Rural
+Plaridel,8.800200803212851,Rural
+Sapang Dalaga,0.0,Rural
+Sinacaban,0.0,Rural
+City of Tangub,14.888359239058913,Rural
+Tudela,6.087625441449002,Rural
+Don Victoriano Chiongbian,0.0,Rural
+MISAMIS ORIENTAL,38.9551677291253,Rural
+Alubijid,0.0,Rural
+Balingasag,33.64656852860119,Rural
+Balingoan,0.0,Rural
+Binuangan,0.0,Rural
+Claveria,20.168451541598383,Rural
+City of El Salvador,58.989978050399,Suburban
+City of Gingoog,31.587148312338147,Rural
+Gitagum,0.0,Rural
+Initao,32.965606748864374,Rural
+Jasaan,60.68004557006398,Suburban
+Kinoguitan,0.0,Rural
+Lagonglong,0.0,Rural
+Laguindingan,14.201722110533701,Rural
+Libertad,40.562248995983936,Suburban
+Lugait,40.911522933994846,Suburban
+Magsaysay (Linugos),0.0,Rural
+Manticao,44.06325290983746,Suburban
+Medina,26.69605750870493,Rural
+Naawan,25.458919978613437,Rural
+Opol,80.21770922851931,Urban
+Salay,20.114674311620774,Rural
+Sugbongcogon,0.0,Rural
+Tagoloan,98.59310997397876,Urban
+Talisayan,20.736772640813633,Rural
+Villanueva,59.67737945025854,Suburban
+CITY OF CAGAYAN DE ORO (CAPITAL),95.77280128280812,Urban
+
+REGION XI (DAVAO REGION),66.83529969089561,Suburban
+DAVAO DE ORO (COMPOSTELA VALLEY),53.20286575284641,Suburban
+Compostela,70.71670152641182,Suburban
+Laak (San Vicente),32.23941613162119,Rural
+Mabini (Doña Alicia),66.11866274797943,Suburban
+Maco,38.42161538738782,Rural
+Maragusan (San Mariano),42.95007141526423,Suburban
+Mawab,54.70212712270697,Suburban
+Monkayo,58.14641727966616,Suburban
+Montevista,31.89355212852786,Rural
+Nabunturan (Capital),47.41759544700024,Suburban
+New Bataan,57.3854583608596,Suburban
+Pantukan,77.0691516313088,Suburban
+DAVAO DEL NORTE,68.28969554431464,Suburban
+Asuncion (Saug),36.059005057114696,Rural
+Carmen,52.94813333658466,Suburban
+Kapalong,65.6929984704199,Suburban
+New Corella,43.363320843333966,Suburban
+City of Panabo,80.0559193232328,Urban
+Island Garden City of Samal,31.152426544261846,Rural
+Santo Tomas,67.80759635337732,Suburban
+City of Tagum (Capital),92.23401597558423,Urban
+Talaingod,100.0,Urban
+Braulio E. Dujali,88.24204427775756,Urban
+San Isidro,0.0,Rural
+DAVAO DEL SUR,51.842740649628716,Suburban
+Bansalan,27.594561423083668,Rural
+City of Digos (Capital),87.82541300377967,Urban
+Hagonoy,38.09097138038265,Rural
+Kiblawan,24.67345740264474,Rural
+Magsaysay,24.325044878516966,Rural
+Malalag,16.126301110613078,Rural
+Matanao,9.974707817433421,Rural
+Padada,35.85246669790481,Rural
+Santa Cruz,90.21310259579728,Urban
+Sulop,22.83007595800973,Rural
+CITY OF DAVAO,91.83071658218665,Urban
+DAVAO OCCIDENTAL,32.26394332180389,Rural
+Don Marcelino,26.36363636363636,Rural
+Jose Abad Santos (Trinidad),9.562420790122784,Rural
+Malita (Capital),46.62216469115121,Suburban
+Santa Maria,39.88805062058895,Rural
+Sarangani,23.331112591605596,Rural
+DAVAO ORIENTAL,41.81277468451946,Suburban
+Baganga,39.90360050413871,Rural
+Banaybanay,27.41670603585971,Rural
+Boston,0.0,Rural
+Caraga,26.548962321176706,Rural
+Cateel,33.76388354785441,Rural
+Governor Generoso,38.73536925414503,Rural
+Lupon,46.3996177906508,Suburban
+Manay,41.870514505205705,Suburban
+City of Mati (Capital),68.50156221407417,Suburban
+San Isidro,23.716730038022813,Rural
+Tarragona,0.0,Rural
+
+REGION XII (SOCCSKSARGEN),55.46565973564621,Suburban
+COTABATO (NORTH COTABATO),37.054623446794,Rural
+Alamada,56.61894289168208,Suburban
+Carmen,39.38716199140763,Rural
+Kabacan,49.73433207195065,Suburban
+City of Kidapawan (Capital),64.23804814946111,Suburban
+Libungan,22.180952211697385,Rural
+Magpet,12.901486988847582,Rural
+Makilala,46.96168412433041,Suburban
+Matalam,31.598549566713785,Rural
+Midsayap,35.31887700762578,Rural
+M'Lang,28.66744742604002,Rural
+Pigkawayan,31.19406946761717,Rural
+Pikit,32.33021007400334,Rural
+President Roxas,30.693936624009748,Rural
+Tulunan,34.38453212634065,Rural
+Antipas,27.680202856397063,Rural
+Banisilan,11.81827854027024,Rural
+Aleosan,15.266182370161552,Rural
+Arakan,21.68796234028245,Rural
+SARANGANI,52.94947991398096,Suburban
+Alabel (Capital),88.46580741613246,Urban
+Glan,37.61399216774535,Rural
+Kiamba,53.574360689634204,Suburban
+Maasim,57.790267939636585,Suburban
+Maitum,9.36516917505941,Rural
+Malapatan,74.83310833405581,Suburban
+Malungon,37.28061442184611,Rural
+SOUTH COTABATO,62.224903534274546,Suburban
+Banga,58.300435153200844,Suburban
+City of Koronadal (Capital),83.13135241916498,Urban
+Norala,28.357825285977466,Rural
+Polomolok,81.40725934938153,Urban
+Surallah,67.50503693754197,Suburban
+Tampakan,32.134672582768545,Rural
+Tantangan,39.91998950682057,Rural
+T'Boli,47.31170026422824,Suburban
+Tupi,67.02922718795519,Suburban
+Santo Niño,26.856970549804,Rural
+Lake Sebu,48.425899705741124,Suburban
+CITY OF GENERAL SANTOS (DADIANGAS),98.39656396320171,Urban
+SULTAN KUDARAT,41.82953731154544,Suburban
+Bagumbayan,45.08825619678884,Suburban
+Columbio,22.062815044590927,Rural
+Esperanza,36.75431080646889,Rural
+Isulan (Capital),81.32628987588471,Urban
+Kalamansig,33.44204322200393,Rural
+Lebak,30.673060080574533,Rural
+Lutayan,68.85473158247517,Suburban
+Lambayong (Mariano Marcos),18.752429802229777,Rural
+Palimbang,15.178609902184686,Rural
+President Quirino,20.19458384622668,Rural
+City of Tacurong,72.12469927460002,Suburban
+Sen. Ninoy Aquino,11.322666441508,Rural
+
+REGION XIII (CARAGA),36.623908830186096,Rural
+AGUSAN DEL NORTE,26.751018701790695,Rural
+Buenavista,31.076177204900425,Rural
+City of Cabadbaran,44.62005625108893,Suburban
+Carmen,29.341446573450717,Rural
+Jabonga,0.0,Rural
+Kitcharao,15.800357176426354,Rural
+Las Nieves,0.0,Rural
+Magallanes,40.514959852868614,Suburban
+Nasipit,41.2476016242024,Suburban
+Santiago,22.242384059741074,Rural
+Tubay,9.086678301337987,Rural
+Remedios T. Romualdez,0.0,Rural
+CITY OF BUTUAN (CAPITAL),68.45646402617254,Suburban
+AGUSAN DEL SUR,38.36579127821501,Rural
+City of Bayugan,38.86976136768372,Rural
+Bunawan,63.72916315878094,Suburban
+Esperanza,8.793152831364885,Rural
+La Paz,18.576641157286318,Rural
+Loreto,16.196444849589792,Rural
+Prosperidad (Capital),41.31180579930028,Suburban
+Rosario,59.983874218907474,Suburban
+San Francisco,70.65007429420506,Suburban
+San Luis,0.0,Rural
+Santa Josefa,18.057657384987895,Rural
+Talacogon,47.898079540299406,Suburban
+Trento,41.45012111869632,Suburban
+Veruela,42.180417044424296,Suburban
+Sibagat,18.63533292104721,Rural
+DINAGAT ISLANDS,9.535034382634624,Rural
+Basilisa (Rizal),0.0,Rural
+Cagdianao,12.277929155313352,Rural
+Dinagat,0.0,Rural
+Libjo (Albor),15.450667553044154,Rural
+Loreto,14.32404540763674,Rural
+San Jose (Capital),21.93744075829384,Rural
+Tubajon,0.0,Rural
+SURIGAO DEL NORTE,32.497437508884545,Rural
+Alegria,3.108007909045971,Rural
+Bacuag,37.30932061017405,Rural
+Burgos,0.0,Rural
+Claver,41.88937918019593,Suburban
+Dapa,15.26235951182514,Rural
+Del Carmen,0.0,Rural
+General Luna,40.112895462302546,Suburban
+Gigaquit,0.0,Rural
+Mainit,13.530104571897642,Rural
+Malimono,0.0,Rural
+Pilar,0.0,Rural
+Placer,26.880740140464614,Rural
+San Benito,0.0,Rural
+San Francisco (Anao-Aon),12.784257509610999,Rural
+San Isidro,0.0,Rural
+Santa Monica (Sapao),0.0,Rural
+Sison,28.36249125262421,Rural
+Socorro,29.80494950273688,Rural
+City of Surigao (Capital),64.40589806378465,Suburban
+Tagana-an,19.03827281648675,Rural
+Tubod,0.0,Rural
+SURIGAO DEL SUR,30.931327899354617,Rural
+Barobo,39.28423587852332,Rural
+Bayabas,0.0,Rural
+City of Bislig,68.47315943196696,Suburban
+Cagwait,0.0,Rural
+Cantilan,26.58250146799765,Rural
+Carmen,0.0,Rural
+Carrascal,47.79549337021069,Suburban
+Cortes,0.0,Rural
+Hinatuan,12.878355876918866,Rural
+Lanuza,0.0,Rural
+Lianga,23.00628893678585,Rural
+Lingig,21.925331512150702,Rural
+Madrid,17.084008887287574,Rural
+Marihatag,0.0,Rural
+San Agustin,0.0,Rural
+San Miguel,13.57841613049822,Rural
+Tagbina,17.35158705025456,Rural
+Tago,25.87431899776556,Rural
+City of Tandag (Capital),66.84963857728702,Suburban
+
+IN MUSLIM MINDANAO (BARMM),27.55624089953082,Rural
+BASILAN (excluding City of Isabela),18.751686387131137,Rural
+City of Lamitan (Capital),32.10584123814279,Rural
+Lantawan,19.536082474226806,Rural
+Maluso,41.58101902471026,Suburban
+Sumisip,0.0,Rural
+Tipo-Tipo,25.008812815792563,Rural
+Tuburan,0.0,Rural
+Akbar,28.686466360723873,Rural
+Al-Barka,0.0,Rural
+Hadji Mohammad Ajul,0.0,Rural
+Ungkaya Pukan,8.610926049300465,Rural
+Hadji Muhtamad,0.0,Rural
+Tabuan-Lasa,25.945374569509326,Rural
+LANAO DEL SUR,4.490354808543243,Rural
+Bacolod-Kalawi (Bacolod Grande),31.341605776298152,Rural
+Balabagan,0.0,Rural
+Balindong (Watu),0.0,Rural
+Bayang,0.0,Rural
+Binidayan,0.0,Rural
+Bubong,0.0,Rural
+Butig,0.0,Rural
+Ganassi,0.0,Rural
+Kapai,0.0,Rural
+Lumba-Bayabao (Maguing),0.0,Rural
+Lumbatan,0.0,Rural
+Madalum,0.0,Rural
+Madamba,0.0,Rural
+Malabang,8.224005867014341,Rural
+Marantao,0.0,Rural
+City of Marawi (Capital),16.25863484855804,Rural
+Masiu,0.0,Rural
+Mulondo,0.0,Rural
+Pagayawan (Tatarikan),0.0,Rural
+Piagapo,0.0,Rural
+Poona Bayabao (Gata),0.0,Rural
+Pualas,0.0,Rural
+Ditsaan-Ramain,0.0,Rural
+Saguiaran,0.0,Rural
+Tamparan,1.6368398079441293,Rural
+Taraka,0.0,Rural
+Tubaran,0.0,Rural
+Tugaya,0.0,Rural
+Wao,5.8968351665806304,Rural
+Marogong,0.0,Rural
+Calanogas,0.0,Rural
+Buadiposo-Buntong,0.0,Rural
+Maguing,0.0,Rural
+Picong (Sultan Gumander),0.0,Rural
+Lumbayanague,0.0,Rural
+Amai Manabilang 1 (Bumbaran),0.0,Rural
+Tagoloan II,0.0,Rural
+Kapatagan,25.58786223046151,Rural
+Sultan Dumalondong,0.0,Rural
+Lumbaca-Unayan,0.0,Rural
+MAGUINDANAO,42.079690125943316,Suburban
+Ampatuan,22.5182267371549,Rural
+Buldon,12.622215502469508,Rural
+Buluan,83.62888896631014,Urban
+City of Cotabato,94.68160047250052,Urban
+Datu Paglas,18.048215664152963,Rural
+Datu Piang,37.83650458069063,Rural
+Datu Odin Sinsuat (Dinaig),50.9523157029323,Suburban
+Shariff Aguak (Maganoy) (Capital),41.08057206756518,Suburban
+Matanog,40.855858355997114,Suburban
+Pagalungan,34.80346608466409,Rural
+Parang,59.03472802534154,Suburban
+Sultan Kudarat (Nuling),40.86528857221678,Suburban
+Sultan sa Barongis (Lambayong),0.0,Rural
+Kabuntalan (Tumbao),0.0,Rural
+Upi,24.78814995593519,Rural
+Talayan,30.39875863684272,Rural
+South Upi,52.512905988841815,Suburban
+Barira,18.197161276042387,Rural
+Gen. S.K. Pendatun,0.0,Rural
+Mamasapano,27.201783723522855,Rural
+Talitay,0.0,Rural
+Pagagawan,30.851691054295976,Rural
+Paglat,27.115928872750573,Rural
+Sultan Mastura,0.0,Rural
+Guindulungan,22.436128825251675,Rural
+Datu Saudi-Ampatuan,19.764971023824852,Rural
+Datu Unsay,0.0,Rural
+Datu Abdullah Sangki,0.0,Rural
+Rajah Buayan,0.0,Rural
+Datu Blah T. Sinsuat,0.0,Rural
+Datu Anggal Midtimbang,22.590702947845806,Rural
+Mangudadatu,29.96985078044499,Rural
+Pandag,0.0,Rural
+Northern Kabuntalan,0.0,Rural
+Datu Hoffer Ampatuan,0.0,Rural
+Datu Salibo,26.88480978983772,Rural
+Shariff Saydona Mustapha,0.0,Rural
+SULU,35.31028648905918,Rural
+Indanan,31.94122445474841,Rural
+Jolo (Capital),100.0,Urban
+Kalingalan Caluang,50.91911299906445,Suburban
+Luuk,37.57822195231431,Rural
+Maimbung,55.38030437773713,Suburban
+Hadji Panglima Tahil (Marunggas),0.0,Rural
+Old Panamao,27.547192521414672,Rural
+Pangutaran,15.494584043547588,Rural
+Parang,0.0,Rural
+Pata,0.0,Rural
+Patikul,41.20833542808305,Suburban
+Siasi,20.42992324547981,Rural
+Talipao,21.648948924946048,Rural
+Tapul,0.0,Rural
+Tongkil,17.893643306379158,Rural
+Panglima Estino (New Panamao),27.378901573768577,Rural
+Lugus,17.842509382639534,Rural
+Pandami,0.0,Rural
+Omar,25.99572497328108,Rural
+TAWI-TAWI,22.12793792984401,Rural
+Panglima Sugala (Balimbing),10.879200915617522,Rural
+Bongao (Capital),57.565579841196026,Suburban
+Mapun (Cagayan de Tawi-Tawi),0.0,Rural
+Simunul,0.0,Rural
+Sitangkai,41.03271791848656,Suburban
+South Ubian,0.0,Rural
+Tandubas,0.0,Rural
+Turtle Islands,0.0,Rural
+Languyan,10.81787793832219,Rural
+Sapa-Sapa,17.945205479452056,Rural
+Sibutu,0.0,Rural
+INTERIM PROVINCE,35.67466451286479,Rural
+Carmen Cluster,46.46383023574465,Suburban
+Kabacan Cluster,0.0,Rural
+Midsayap Cluster I,0.0,Rural
+Midsayap Cluster II,24.24904180408236,Rural
+Pigcawayan Cluster,39.909308605492434,Rural
+Pikit Cluster I,63.55458177600206,Suburban
+Pikit Cluster II,37.08686409830814,Rural
+Pikit Cluster III,43.88922743584535,Suburban

@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorBackground">
+
+    <!-- Guidelines -->
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/topGuideline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.05" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/startGuideline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.10" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/endGuideline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.90" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/bottomGuideline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.90" />
+
+    <!-- Main Vertical Container -->
+    <LinearLayout
+        android:id="@+id/main_container"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:orientation="vertical"
+        app:layout_constraintTop_toTopOf="@id/topGuideline"
+        app:layout_constraintBottom_toBottomOf="@id/bottomGuideline"
+        app:layout_constraintStart_toStartOf="@id/startGuideline"
+        app:layout_constraintEnd_toEndOf="@id/endGuideline">
+
+        <!-- Budget Section -->
+        <TextView
+            android:id="@+id/budget_label"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:fontFamily="@font/bahnschrift"
+            android:layout_marginBottom="20dp"
+            android:gravity="center"
+            android:text="SET YOUR BUDGET"
+            android:textStyle="bold"
+            android:letterSpacing="0.1"
+            android:textColor="@color/colorPrimaryText"
+            android:elevation="4dp"
+            android:autoSizeTextType="uniform"
+            android:autoSizeMinTextSize="@dimen/font_spinner_min"
+            android:autoSizeMaxTextSize="@dimen/font_headline_large"
+            android:autoSizeStepGranularity="1sp"/>
+
+        <!-- Budget Field -->
+        <androidx.cardview.widget.CardView
+            android:id="@+id/budgetFieldLayout"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1.5"
+            app:cardCornerRadius="20dp"
+            app:cardElevation="8dp">
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/colorAccent"
+                android:padding="16dp">
+
+                <ImageView
+                    android:id="@+id/pesoIcon"
+                    android:layout_width="48dp"
+                    android:layout_height="48dp"
+                    android:src="@drawable/peso"
+                    android:contentDescription="Peso Icon"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintBottom_toBottomOf="parent" />
+
+                <EditText
+                    android:id="@+id/budget_display"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:hint="Enter a Budget"
+                    android:textColor="@color/colorPrimaryText1"
+                    android:textColorHint="@color/colorSecondaryText"
+                    android:background="@drawable/rounded_input_background"
+                    android:fontFamily="@font/bahnschrift"
+                    android:textStyle="bold"
+                    android:gravity="center"
+                    android:padding="12dp"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginEnd="10dp"
+                    android:inputType="numberDecimal|textNoSuggestions"
+                    android:autoSizeTextType="uniform"
+                    android:autoSizeMinTextSize="@dimen/font_spinner_min"
+                    android:autoSizeMaxTextSize="@dimen/font_headline_medium"
+                    android:autoSizeStepGranularity="1sp"
+                    app:layout_constraintStart_toEndOf="@id/pesoIcon"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintBottom_toBottomOf="parent" />
+            </androidx.constraintlayout.widget.ConstraintLayout>
+        </androidx.cardview.widget.CardView>
+
+        <!-- Location Section -->
+        <TextView
+            android:id="@+id/location_label"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:layout_marginTop="20dp"
+            android:gravity="center"
+            android:fontFamily="@font/bahnschrift"
+            android:text="SELECT YOUR LOCATION"
+            android:textStyle="bold"
+            android:letterSpacing="0.1"
+            android:textColor="@color/colorPrimaryText"
+            android:elevation="4dp"
+            android:autoSizeTextType="uniform"
+            android:autoSizeMinTextSize="@dimen/font_spinner_min"
+            android:autoSizeMaxTextSize="@dimen/font_headline_large"
+            android:autoSizeStepGranularity="1sp"/>
+
+        <!-- Location Spinners -->
+        <androidx.cardview.widget.CardView
+            android:id="@+id/location_container"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="4"
+            android:layout_marginTop="20dp"
+            app:cardCornerRadius="20dp"
+            app:cardElevation="8dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:background="@color/colorAccent"
+                android:padding="16dp">
+
+                <Spinner
+                    android:id="@+id/spinner_island"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:fontFamily="@font/bahnschrift"
+                    android:autoSizeTextType="uniform"
+                    android:autoSizeMinTextSize="@dimen/font_spinner_min"
+                    android:autoSizeMaxTextSize="@dimen/font_body_large"
+                    android:autoSizeStepGranularity="1sp"
+                    android:layout_marginBottom="@dimen/spacing_small"
+                    android:background="@drawable/spinner_background"
+                    android:popupBackground="@color/colorCard1"
+                    android:padding="8dp"/>
+
+                <Spinner
+                    android:id="@+id/spinner_region"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:fontFamily="@font/bahnschrift"
+                    android:autoSizeTextType="uniform"
+                    android:autoSizeMinTextSize="@dimen/font_spinner_min"
+                    android:autoSizeMaxTextSize="@dimen/font_body_large"
+                    android:autoSizeStepGranularity="2sp"
+                    android:layout_marginBottom="@dimen/spacing_small"
+                    android:background="@drawable/spinner_background"
+                    android:popupBackground="@color/colorCard1"
+                    android:padding="8dp"/>
+
+                <Spinner
+                    android:id="@+id/spinner_province"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:fontFamily="@font/bahnschrift"
+                    android:autoSizeTextType="uniform"
+                    android:autoSizeMinTextSize="@dimen/font_spinner_min"
+                    android:autoSizeMaxTextSize="@dimen/font_body_large"
+                    android:autoSizeStepGranularity="2sp"
+                    android:layout_marginBottom="@dimen/spacing_small"
+                    android:background="@drawable/spinner_background"
+                    android:popupBackground="@color/colorCard1"
+                    android:padding="8dp"/>
+
+                <Spinner
+                    android:id="@+id/spinner_municipality"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:fontFamily="@font/bahnschrift"
+                    android:autoSizeTextType="uniform"
+                    android:autoSizeMinTextSize="@dimen/font_spinner_min"
+                    android:autoSizeMaxTextSize="@dimen/font_body_large"
+                    android:autoSizeStepGranularity="2sp"
+                    android:background="@drawable/spinner_background"
+                    android:popupBackground="@color/colorCard1"
+                    android:padding="8dp"/>
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <!-- Done Button -->
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btn_done"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:layout_marginTop="20dp"
+            android:text="DONE"
+            android:fontFamily="@font/bahnschrift"
+            android:textSize="@dimen/font_button_primary"
+            android:letterSpacing="0.1"
+            android:textStyle="bold"
+            android:textColor="@color/colorCard"
+            android:backgroundTint="@color/colorAccent"
+            app:cornerRadius="20dp"
+            app:elevation="8dp"/>
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

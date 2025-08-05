@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mainConstraintLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorBackground"
+    tools:context=".SignupScreenActivity">
+
+    <!-- Guidelines -->
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/topGuideline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.05" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/topGuideline1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.35" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/topGuideline2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.40" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/topGuideline3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.48" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/topGuideline4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.50" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/topGuideline5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.58" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/topGuideline6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.60" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/topGuideline7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.68" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/topGuideline8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.70" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/topGuideline9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.78" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/topGuideline10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.80" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/startGuideline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.10"/>
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/endGuideline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.90" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/bottomGuideline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.95" />
+
+    <!-- Guidelines (same as before) -->
+    <!-- [All guideline declarations remain unchanged, omitting them here for brevity] -->
+
+    <!-- Logo -->
+    <!-- Image Display -->
+    <androidx.cardview.widget.CardView
+        android:id="@+id/imageCard"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:elevation="6dp"
+        app:cardCornerRadius="15dp"
+        app:layout_constraintTop_toTopOf="@id/topGuideline"
+        app:layout_constraintBottom_toBottomOf="@id/topGuideline1"
+        app:layout_constraintStart_toStartOf="@id/startGuideline"
+        app:layout_constraintEnd_toEndOf="@id/endGuideline">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:srcCompat="@drawable/sub_logo"
+            android:scaleType="fitXY"/>
+    </androidx.cardview.widget.CardView>
+
+
+    <!-- Username Field -->
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/usernameContainer"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="@drawable/input_field_background"
+        android:padding="10dp"
+        app:layout_constraintTop_toTopOf="@id/topGuideline2"
+        app:layout_constraintBottom_toBottomOf="@id/topGuideline3"
+        app:layout_constraintStart_toStartOf="@id/startGuideline"
+        app:layout_constraintEnd_toEndOf="@id/endGuideline">
+
+        <ImageView
+            android:id="@+id/usernameIconImageView"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:padding="6dp"
+            android:src="@drawable/username"
+            app:tint="@color/colorCard1"
+            app:layout_constraintWidth_percent="0.15"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent" />
+
+        <EditText
+            android:id="@+id/usernameEditText"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:textColor="@color/colorPrimaryText1"
+            android:layout_marginStart="10dp"
+            android:textColorHint="@color/colorSecondaryText"
+            android:background="@drawable/rounded_input_background"
+            android:hint="Username"
+            android:inputType="text"
+            android:padding="5dp"
+            android:fontFamily="@font/bahnschrift"
+            android:autoSizeTextType="uniform"
+            android:autoSizeMinTextSize="@dimen/font_spinner_min"
+            android:autoSizeMaxTextSize="@dimen/font_body_large"
+            android:autoSizeStepGranularity="2sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@id/usernameIconImageView"
+            app:layout_constraintTop_toTopOf="parent" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <!-- Email Field -->
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/emailContainer"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="@drawable/input_field_background"
+        android:padding="10dp"
+        app:layout_constraintTop_toTopOf="@id/topGuideline4"
+        app:layout_constraintBottom_toBottomOf="@id/topGuideline5"
+        app:layout_constraintStart_toStartOf="@id/startGuideline"
+        app:layout_constraintEnd_toEndOf="@id/endGuideline">
+
+        <ImageView
+            android:id="@+id/emailIconImageView"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:padding="6dp"
+            android:src="@drawable/email"
+            app:tint="@color/colorCard1"
+            app:layout_constraintWidth_percent="0.15"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent" />
+
+        <EditText
+            android:id="@+id/emailEditText"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:hint="Email"
+            android:inputType="textEmailAddress"
+            android:padding="5dp"
+            android:layout_marginStart="10dp"
+
+            android:textColor="@color/colorPrimaryText1"
+            android:textColorHint="@color/colorSecondaryText"
+            android:background="@drawable/rounded_input_background"
+            android:fontFamily="@font/bahnschrift"
+            android:autoSizeTextType="uniform"
+            android:autoSizeMinTextSize="@dimen/font_spinner_min"
+            android:autoSizeMaxTextSize="@dimen/font_body_large"
+            android:autoSizeStepGranularity="2sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@id/emailIconImageView"
+            app:layout_constraintTop_toTopOf="parent" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <!-- Password Field -->
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/passwordContainer"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="@drawable/input_field_background"
+        android:padding="10dp"
+        app:layout_constraintTop_toTopOf="@id/topGuideline6"
+        app:layout_constraintBottom_toBottomOf="@id/topGuideline7"
+        app:layout_constraintStart_toStartOf="@id/startGuideline"
+        app:layout_constraintEnd_toEndOf="@id/endGuideline">
+
+        <ImageView
+            android:id="@+id/passwordToggleImageView"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:padding="6dp"
+            android:src="@drawable/eye_close"
+            app:tint="@color/colorCard1"
+            app:layout_constraintWidth_percent="0.15"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent" />
+
+        <EditText
+            android:id="@+id/passwordEditText"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:textColor="@color/colorPrimaryText1"
+            android:textColorHint="@color/colorSecondaryText"
+            android:layout_marginStart="10dp"
+
+            android:background="@drawable/rounded_input_background"
+            android:hint="Password"
+            android:inputType="textPassword"
+            android:padding="5dp"
+            android:fontFamily="@font/bahnschrift"
+            android:autoSizeTextType="uniform"
+            android:autoSizeMinTextSize="@dimen/font_spinner_min"
+            android:autoSizeMaxTextSize="@dimen/font_body_large"
+            android:autoSizeStepGranularity="2sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@id/passwordToggleImageView"
+            app:layout_constraintTop_toTopOf="parent" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <!-- Confirm Password Field -->
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/confirmPasswordContainer"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="@drawable/input_field_background"
+        android:padding="10dp"
+        app:layout_constraintTop_toTopOf="@id/topGuideline8"
+        app:layout_constraintBottom_toBottomOf="@id/topGuideline9"
+        app:layout_constraintStart_toStartOf="@id/startGuideline"
+        app:layout_constraintEnd_toEndOf="@id/endGuideline">
+
+        <ImageView
+            android:id="@+id/confirmPasswordToggleImageView"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:padding="6dp"
+            android:src="@drawable/eye_close"
+            app:tint="@color/colorCard1"
+            app:layout_constraintWidth_percent="0.15"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent" />
+
+        <EditText
+            android:id="@+id/confirmPasswordEditText"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:textColor="@color/colorPrimaryText1"
+            android:textColorHint="@color/colorSecondaryText"
+            android:layout_marginStart="10dp"
+
+            android:background="@drawable/rounded_input_background"
+            android:hint="Confirm password"
+            android:inputType="textPassword"
+            android:padding="5dp"
+            android:fontFamily="@font/bahnschrift"
+            android:autoSizeTextType="uniform"
+            android:autoSizeMinTextSize="@dimen/font_spinner_min"
+            android:autoSizeMaxTextSize="@dimen/font_body_large"
+            android:autoSizeStepGranularity="2sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@id/confirmPasswordToggleImageView"
+            app:layout_constraintTop_toTopOf="parent" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/signUpCardView"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:cardCornerRadius="16dp"
+        app:cardElevation="6dp"
+        app:cardBackgroundColor="@color/colorAccent"
+        app:layout_constraintTop_toTopOf="@id/topGuideline10"
+        app:layout_constraintBottom_toBottomOf="@id/bottomGuideline"
+        app:layout_constraintStart_toStartOf="@id/startGuideline"
+        app:layout_constraintEnd_toEndOf="@id/endGuideline">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="20dp">
+
+            <!-- Guidelines -->
+            <!-- Vertical Guideline at 50% -->
+            <androidx.constraintlayout.widget.Guideline
+                android:id="@+id/signupVerticalGuideline"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                app:layout_constraintGuide_percent="0.5" />
+
+            <!-- Vertical Guideline at 50% -->
+            <androidx.constraintlayout.widget.Guideline
+                android:id="@+id/signupVerticalGuideline1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                app:layout_constraintGuide_percent="0.75" />
+
+            <!-- Sign Up Button -->
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/signupButton"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:text="SIGN UP"
+                android:textColor="@color/colorPrimaryText1"
+                android:backgroundTint="@color/colorCard1"
+                android:textSize="@dimen/font_button_primary"
+                android:letterSpacing="0.1"
+                android:textStyle="bold"
+                app:cornerRadius="20dp"
+                app:elevation="8dp"
+                android:fontFamily="@font/bahnschrift"
+                app:layout_constraintBottom_toTopOf="@id/signupVerticalGuideline"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <!-- Already have an account Text -->
+
+            <TextView
+                android:id="@+id/alreadyHaveAccountTextView"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="ALREADY HAVE AN ACCOUNT?"
+                android:textColor="@color/colorCard"                android:gravity="center"
+                android:fontFamily="@font/bahnschrift"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="@dimen/font_spinner_min"
+                android:autoSizeMaxTextSize="@dimen/font_body_large"
+                android:autoSizeStepGranularity="2sp"
+                app:layout_constraintTop_toBottomOf="@id/signupVerticalGuideline"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintEnd_toStartOf="@id/signupVerticalGuideline1"
+                app:layout_constraintBottom_toBottomOf="parent"
+                android:layout_marginEnd="5dp" />
+
+
+            <TextView
+                android:id="@+id/loginTextView"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:text="@string/login_underlined"
+                android:textColor="@color/colorCard1"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:fontFamily="@font/bahnschrift"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="@dimen/font_spinner_min"
+                android:autoSizeMaxTextSize="@dimen/font_body_large"
+                android:autoSizeStepGranularity="2sp"
+                app:layout_constraintTop_toBottomOf="@id/signupVerticalGuideline"
+                app:layout_constraintStart_toEndOf="@id/signupVerticalGuideline1"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintBottom_toBottomOf="parent"
+                android:layout_marginStart="5dp" />
+
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.cardview.widget.CardView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

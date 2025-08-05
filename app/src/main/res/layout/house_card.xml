@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginVertical="8dp"
+    app:cardCornerRadius="20dp"
+    app:cardElevation="4dp">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorAccent"
+        android:padding="16dp">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/propertyCard"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginEnd="8dp"
+        app:cardCornerRadius="20dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintWidth_percent="0.25"
+        app:layout_constraintDimensionRatio="1:1">
+
+    <ImageView
+        android:id="@+id/propertyImage"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/main_logo" />
+</androidx.cardview.widget.CardView>
+
+
+<TextView
+            android:id="@+id/propertyTitle"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:textColor="@color/colorCard1"
+            android:autoSizeMinTextSize="@dimen/font_spinner_min"
+            android:autoSizeMaxTextSize="10sp"
+            android:autoSizeStepGranularity="1sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:fontFamily="@font/bahnschrift"
+            android:layout_marginStart="8dp"
+            android:layout_marginEnd="8dp"
+            android:maxLines="2"
+            android:ellipsize="end"
+            app:layout_constraintStart_toEndOf="@id/propertyCard"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintBottom_toTopOf="@id/sellButton"
+            app:layout_constraintVertical_weight="1"/>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/sellButton"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:text="SELL"
+            android:textColor="@color/colorPrimaryText1"
+            android:backgroundTint="@color/colorCard1"
+            android:autoSizeTextType="uniform"
+            android:autoSizeMinTextSize="@dimen/font_spinner_min"
+            android:autoSizeMaxTextSize="10sp"
+            android:autoSizeStepGranularity="1sp"
+            android:letterSpacing="0.1"
+            android:textStyle="bold"
+            android:fontFamily="@font/bahnschrift"
+            android:layout_marginStart="8dp"
+            android:layout_marginEnd="8dp"
+            app:layout_constraintStart_toEndOf="@id/propertyCard"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/propertyTitle"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintVertical_weight="1"/>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.cardview.widget.CardView>
