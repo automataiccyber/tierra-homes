@@ -9,60 +9,59 @@ Tierra Homes is an Android application designed to provide users with a complete
 ## ✨ Key Features
 
 ### 🏠 Property Management
-- **House Types**: Browse various property types including apartments, bungalows, condominiums, cottages, duplexes, farmhouses, and more
-- **Customization**: Customize properties with different materials, finishes, and architectural elements
-- **Floor Planning**: Multi-floor property layouts with detailed specifications
-- **Budget Management**: Set and track budgets with real-time cost calculations
+- *House Types*: Browse various property types including apartments, bungalows, condominiums, cottages, duplexes, farmhouses, and more
+- *Customization*: Customize properties with different materials, finishes, and architectural elements
+- *Floor Planning*: Multi-floor property layouts with detailed specifications
+- *Budget Management*: Set and track budgets with real-time cost calculations
 
 ### 🎯 Location & Market Analysis
-- **Philippine Location Data**: Comprehensive database of Philippine locations with island, region, province, and municipality classifications
-- **Location Classifier**: AI-powered location classification system
-- **Market Insights**: Real-time market trends and property sales analytics
-- **Price Prediction**: TensorFlow Lite-powered AI model for property price predictions
+- *Philippine Location Data*: Comprehensive database of Philippine locations with island, region, province, and municipality classifications
+- *Location Classifier*: AI-powered location classification system
+- *Market Insights*: Real-time market trends and property sales analytics
+- *Price Prediction*: TensorFlow Lite-powered AI model for property price predictions
 
 ### 🔐 User Management
-- **Authentication**: Secure login and signup system with Firebase Authentication
-- **Password Recovery**: Forgot password functionality
-- **User Profiles**: Personalized user experience with location tracking
+- *Authentication*: Secure login and signup system with Firebase Authentication
+- *Password Recovery*: Forgot password functionality
+- *User Profiles*: Personalized user experience with location tracking
 
 ### 📊 Analytics & Insights
-- **Sales Analytics**: Track property sales data with Firebase Realtime Database
-- **Charts & Graphs**: Visual data representation using MPAndroidChart
-- **Market Trends**: Analyze property market trends and volatility
-- **Asset Management**: Comprehensive asset tracking and valuation
+- *Sales Analytics*: Track property sales data with Firebase Realtime Database
+- *Charts & Graphs*: Visual data representation using MPAndroidChart
+- *Market Trends*: Analyze property market trends and volatility
+- *Asset Management*: Comprehensive asset tracking and valuation
 
 ### 🎨 User Interface
-- **Dark/Light Theme**: Automatic theme switching based on system preferences
-- **Responsive Design**: Adaptive layouts for different screen sizes
-- **Smooth Animations**: Lottie animations and custom transitions
-- **Material Design**: Modern UI following Material Design principles
+- *Dark/Light Theme*: Automatic theme switching based on system preferences
+- *Responsive Design*: Adaptive layouts for different screen sizes
+- *Smooth Animations*: Lottie animations and custom transitions
+- *Material Design*: Modern UI following Material Design principles
 
 ## 🛠 Technical Stack
 
 ### Core Technologies
-- **Language**: Java 11
-- **Platform**: Android (API 24+)
-- **Target SDK**: 35
-- **Minimum SDK**: 24
+- *Language*: Java 11
+- *Platform*: Android (API 24+)
+- *Target SDK*: 35
+- *Minimum SDK*: 24
 
 ### Key Dependencies
-- **Firebase**: Authentication, Realtime Database, Analytics
-- **TensorFlow Lite**: AI/ML price prediction models
-- **MPAndroidChart**: Data visualization and charts
-- **Retrofit**: HTTP client for API calls
-- **Lottie**: Animation support
-- **Material Design**: UI components
+- *Firebase*: Authentication, Realtime Database, Analytics
+- *TensorFlow Lite*: AI/ML price prediction models
+- *MPAndroidChart*: Data visualization and charts
+- *Retrofit*: HTTP client for API calls
+- *Lottie*: Animation support
+- *Material Design*: UI components
 
 ### Architecture
-- **Activities**: Main navigation and user flow management
-- **Fragments**: Modular UI components for different features
-- **Firebase Manager**: Centralized Firebase operations
-- **Database Helper**: Local SQLite database management
-- **Network Utils**: Network connectivity monitoring
+- *Activities*: Main navigation and user flow management
+- *Fragments*: Modular UI components for different features
+- *Firebase Manager*: Centralized Firebase operations
+- *Database Helper*: Local SQLite database management
+- *Network Utils*: Network connectivity monitoring
 
 ## 📁 Project Structure
 
-```
 app/src/main/
 ├── java/com/example/tierrahomes/
 │   ├── Activities/
@@ -104,7 +103,6 @@ app/src/main/
 └── assets/
     ├── locationclassification.txt
     └── ph_location_classification.txt
-```
 
 ## 🚀 Getting Started
 
@@ -116,25 +114,25 @@ app/src/main/
 
 ### Installation
 
-1. **Clone the repository**
-   ```bash
+1. *Clone the repository*
+   
    git clone [repository-url]
    cd TierraHomes-V3
-   ```
+   
 
-2. **Set up Firebase**
+2. *Set up Firebase*
    - Create a new Firebase project
-   - Download `google-services.json` and place it in the `app/` directory
+   - Download google-services.json and place it in the app/ directory
    - Enable Authentication and Realtime Database in Firebase Console
 
-3. **Configure TensorFlow Model**
-   - Place your TensorFlow Lite model file (`price_prediction.tflite`) in `app/src/main/assets/`
+3. *Configure TensorFlow Model*
+   - Place your TensorFlow Lite model file (price_prediction.tflite) in app/src/main/assets/
 
-4. **Build and Run**
-   ```bash
+4. *Build and Run*
+   
    ./gradlew build
    ./gradlew installDebug
-   ```
+   
 
 ### Configuration
 
@@ -152,49 +150,50 @@ The app uses a custom TensorFlow Lite model for price prediction. Ensure your mo
 ## 🔧 Features in Detail
 
 ### AI Price Prediction
-- **Model**: TensorFlow Lite-based price prediction
-- **Input**: Historical price data
-- **Output**: Predicted prices, trend confidence, market volatility
-- **Integration**: Seamless integration with property analysis
+- *Model*: TensorFlow Lite-based price prediction
+- *Input*: Historical price data
+- *Output*: Predicted prices, trend confidence, market volatility
+- *Integration*: Seamless integration with property analysis
 
 ### Location Classification
-- **Database**: Comprehensive Philippine location data
-- **Classification**: Island → Region → Province → Municipality hierarchy
-- **AI Integration**: Machine learning-based location classification
+- *Database*: Comprehensive Philippine location data
+- *Classification*: Island → Region → Province → Municipality hierarchy
+- *AI Integration*: Machine learning-based location classification
 
 ### Property Customization
-- **Materials**: Various construction materials and finishes
-- **Architecture**: Different house types and styles
-- **Cost Calculation**: Real-time material and labor cost estimation
-- **Budget Tracking**: Integrated budget management system
+- *Materials*: Various construction materials and finishes
+- *Architecture*: Different house types and styles
+- *Cost Calculation*: Real-time material and labor cost estimation
+- *Budget Tracking*: Integrated budget management system
 
 ### Market Analytics
-- **Sales Tracking**: Firebase-based sales data collection
-- **Visualization**: MPAndroidChart for data representation
-- **Trend Analysis**: Market trend identification and analysis
+- *Sales Tracking*: Firebase-based sales data collection
+- *Visualization*: MPAndroidChart for data representation
+- *Trend Analysis*: Market trend identification and analysis
 
 ## 📱 Screenshots
 
-*[Screenshots would be added here]*
+<img width="450" height="1015" alt="image" src="https://github.com/user-attachments/assets/a91ff8ef-df40-42f4-af39-56b0f95ce260" />
+<img width="450" height="1015" alt="image" src="https://github.com/user-attachments/assets/66bfb0e6-e825-4789-962b-6e30b9c24dd2" />
+<img width="450" height="1015" alt="image" src="https://github.com/user-attachments/assets/5e43f23d-619b-46ce-b318-57a4a0dd3ea6" />
+<img width="450" height="1015" alt="image" src="https://github.com/user-attachments/assets/ffe840fe-f71e-45a5-acf0-5aaeead1bd5d" />
+<img width="450" height="1015" alt="image" src="https://github.com/user-attachments/assets/914b63e6-0cf4-445c-b049-1fc8388c3cef" />
+<img width="450" height="1015" alt="image" src="https://github.com/user-attachments/assets/86ec9897-fc54-4670-96a7-d79d3c8e2a96" />
 
 ## 🔒 Permissions
 
 The app requires the following permissions:
-- `INTERNET`: For Firebase and API connectivity
-- `ACCESS_NETWORK_STATE`: For network monitoring
-- `READ_PHONE_STATE`: For device identification
+- INTERNET: For Firebase and API connectivity
+- ACCESS_NETWORK_STATE: For network monitoring
+- READ_PHONE_STATE: For device identification
 
 ## 🧪 Testing
 
 ### Unit Tests
-```bash
 ./gradlew test
-```
 
 ### Instrumented Tests
-```bash
 ./gradlew connectedAndroidTest
-```
 
 ## 📄 License
 
@@ -203,12 +202,12 @@ This project is proprietary software. All rights reserved.
 ## 📞 Contact
 
 For support or inquiries:
-- **Email**: tierrahomes101@gmail.com
-- **Developer**: Tierra Homes Development Team
+- *Email*: lieldarrenfajutagana@gmail.com
+- *Developer*: Liel Darren F. Fajutagana
 
 ## 🔄 Version History
 
-- **v1.0**: Initial release with core features
+- *v1.0*: Initial release with core features
   - Property browsing and customization
   - AI price prediction
   - Location classification
@@ -217,8 +216,8 @@ For support or inquiries:
 
 ## 🤝 Contributing
 
-This is a proprietary application. For feature requests or bug reports, please contact the development team.
+This is a proprietary application. For feature requests or bug reports, please contact the developer.
 
 ---
 
-**Tierra Homes** - Your trusted partner in Philippine real estate exploration and analysis. 
+*Tierra Homes* - Your trusted partner in Philippine real estate exploration and analysis.
